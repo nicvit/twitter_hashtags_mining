@@ -1,0 +1,1 @@
+db.getCollection('keywords_stream').find( {"entities.hashtags.text":{ $all : ["marijuana", "medical"]}})

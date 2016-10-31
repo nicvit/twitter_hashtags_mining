@@ -1,0 +1,72 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww20020\viewh13180\viewkind0
+\deftab720
+\pard\pardeftab720\sl340\partightenfactor0
+
+\f0\fs28 \cf0 \expnd0\expndtw0\kerning0
+# All significant unigrams and ngrams\
+[tobacco, tobacco products, marijuana, medical marijuana, smoke, tobacco advertising, tobacco control,\
+cigarette companies, tobacco companies, tobacco industry, cigarette packs, cigarette advertising,\
+cigarette brands, tobacco marketing, tobacco sponsorship, tobacco advertisements, smoking, smokeless, smokeless tobacco, smoking prevalence, shisha, smoker, cigarette tax, cancer, cancer society, health, public health, health care, smoking ban, smoker lobby, smoking habit, smokers, marlboro, snus, heroin, hookah, oral tobacco, quit smoking, bronchial, asthmatics, asthmatics smoking, cigs, vaping, vaping devices, electronic cigarettes, cheapest cigarette, reduce smoking rates, tobacco illegal, pipe, antismoking, cigarette sales, smoke anymore, reducing smoking, tobacco smoke, smoke worry, diabetes risk, heart attack, drug, kretek, hooka, stay clean, smoking crystal, menthol, toke, acid trip, inhalation, pipe smoking, inhale, sputum, asthma, bronchial, ecig, eliquids, vaporizer]\
+\
+# Second check\
+\pard\pardeftab720\sl340\partightenfactor0
+\cf0 [tobacco products, medical marijuana, smoke, tobacco advertising, tobacco control,\
+cigarette companies, tobacco companies, tobacco industry, cigarette packs, cigarette advertising,\
+cigarette brands, tobacco marketing, tobacco sponsorship, tobacco advertisements, smoking, smokeless, smoking prevalence, shisha, smoker, cigarette tax, lung cancer, cancer society, public health, health care, smoking ban, smoker lobby, smoking habit, marlboro, snus, heroin, hookah, oral tobacco, quit smoking, cigs, vaping, electronic cigarettes, cheapest cigarette, reduce smoking rates, tobacco illegal, antismoking, cigarette sales, smoke anymore, reducing smoking, smoke worry, diabetes risk, heart attack, drug, kretek, hooka, stay clean, smoking crystal, menthol, toke, acid trip, inhalation, inhale, sputum, asthma, bronchial, ecig, eliquids, vaporizer]\
+\pard\pardeftab720\sl340\partightenfactor0
+\cf0 \
+\
+# All significant unigram (subset of the previous list)\
+[tobacco, marijuana, smoke, cigarette, smokeless, shisha, cancer, health, quit, smoking, cigs, vaping, antismoking, drug, hooka, menthol, toke, inhalation, ecig, eliquids, vaporizer]\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+ \
+\
+}

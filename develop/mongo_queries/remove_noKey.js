@@ -1,0 +1,1 @@
+db.getCollection('top_occurrences0').remove({"text": { $exists: false }})

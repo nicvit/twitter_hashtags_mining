@@ -1,0 +1,1616 @@
+March 2015
+Living Well for Longer: One year on
+2
+Title: Living Well for Longer: One year on
+Author: PIHD/ IHPHPS/ RAMP
+Document Purpose: Policy
+Publication date: March 2015
+Target audience:
+Clinical Commissioning Groups, Chairs of Health & Wellbeing Boards, NHS Trust CEs, NHS England Area Teams,
+Care Trust CEs, Foundation Trust CEs, Medical Directors, Directors of Nursing, Local Authority CEs, Directors of
+PH, Directors of Adult SSs, NHS Trust Board Chairs, Special HA CEs, Directors of HR, Directors of Finance, Allied
+Health Professionals, GPs, Communications Leads, Emergency Care Leads, Directors of Children’s SSs, voluntary
+& community sector, commissioners and providers of other public services, Government departments
+Circulation list:
+NHS Trust CEs, Care Trust CEs, Foundation Trust CEs, Medical Directors, Local Authority CEs, Chairs of Health &
+Wellbeing Boards, NHS Trust Board Chairs, Special HA CEs, GPs, Voluntary Organisations, NDPBs, other
+Government Departments, Clinical Commissioning Group Clinical Leads and Clinical Commissioning Group Chief
+Officers, Local Authority Directors of Public Health
+Description:
+Sets out progress over 2014/15 by Government, Public Health England (PHE) and NHS England to reduce
+premature avoidable mortality as set out in Living Well for Longer: National Support for Local Action to Reduce
+Premature Avoidable Mortality. It also provides and outline of the next steps for partners in delivering ongoing
+improvements in premature mortality.
+Cross reference:
+Living Well for Longer: A Call to Action to Reduce Avoidable Premature Mortality
+Living Well for Longer: National Support for Local Action to Reduce Premature Avoidable Mortality
+Superseded documents: N/A
+Action required: N/A
+Timing: N/A
+Contact details:
+Public Health Policy and Strategy Unit, Richmond House
+79 Whitehall, London SW1A 2NS
+You may re-use the text of this document (not including logos) free of charge in any format or medium,
+under the terms of the Open Government Licence. To view this licence, visit
+www.nationalarchives.gov.uk/doc/open-government-licence/
+© Crown copyright
+Published to gov.uk, in PDF format only. www.gov.uk/dh
+3
+Living Well for Longer: One year on
+Prepared by
+The Reducing Avoidable Premature Mortality Programme in The Department of Health
+4
+Foreword
+Jane Ellison Jane Ellison MP, Parliamentary Under Secretary for Public Health
+In 2010, The Secretary of State for Health made clear his intention to
+focus on reducing premature mortality in England from the five big killers;
+cancer, heart disease, stroke, respiratory and liver disease.
+His Call to Action challenged us to maximise the potential of the new system to work
+together towards England becoming amongst the best in Europe at reducing premature
+mortality by 2020. And last year in Living Well for Longer: National support for local
+action, we set out how the national collective efforts of Government, NHS England and
+Public Health England combine and align in support of local commissioners and
+providers as they lead improvements in health outcomes for our communities.
+What has proved vital is our partnership with the wider community of activists in health
+and wellbeing. Our stakeholders and partners in the voluntary and community sector,
+nationally and locally, have helped drive the debate and have embedded the challenge
+to reduce premature mortality and health inequalities.
+I am especially impressed by the relationships across the wider health and care system
+which have accelerated progress faster than we might have anticipated. The reforms
+have allowed us to do things differently and as a result the system is now in a much
+better place to deliver the ambitions we set out almost 2 years ago.
+Across the spectrum of action for health, it is prevention where we will need to make the
+greatest strides in the years to come if we are to realise the Secretary of State’s
+ambition, and if we are to make that a sustainable outcome. NHS England and Public
+Health England along with all the sectors arms-length bodies have placed prevention
+front and centre of their plans for the future.
+We started out 2 years ago on this road to refocus the newly established health and
+care system on our core objective, to help everyone live well for longer. We said that
+“this is an important time for us – to be bold and ambitious for health”. I believe we have
+been just that; not just at the national level, but importantly, at the local level and across
+the wider health and care system. It will be for all of us to now ensure we continue to
+challenge ourselves and each other to go further, faster towards our goal – to live well
+for longer.
+5
+Contents
+Foreword 4
+Contents 5
+Executive Summary 7
+1. Introduction 10
+2. Setting the scene 11
+3. Reducing premature mortality in the new health and care environment 14
+Shared system leadership 14
+Accountability and transparency 14
+Ensuring prevention is front and centre 15
+4. Sector Engagement 16
+5. Delivering Living Well for Longer and beyond 18
+Prevention 18
+Reducing the burden of high blood pressure 18
+Reducing obesity 19
+Increasing levels of physical activity 21
+Reducing smoking prevalence 22
+Reducing harmful alcohol consumption 24
+NHS Health Check 25
+System wide prevention activity 26
+Early diagnosis 26
+Symptom awareness campaigns 26
+Cancer screening 28
+Access to scientific and diagnostic commissioning information 29
+Prime Minister Challenge Fund Pilots 29
+Treatment 30
+Stimulating a focus on reducing premature mortality across the NHS 30
+Incentives 30
+Proton Beam Therapy 31
+Stroke services 31
+Congenital heart disease review 31
+Making every contact count 32
+Learning disabilities 33
+6. Next steps 34
+Shared system leadership 35
+Accountability and transparency 35
+Ensuring prevention is front and centre 36
+Treatment: improving outcomes for patients 38
+Mental health 38
+Cancer 38
+6
+Liver disease 39
+Acute kidney injury 40
+Sepsis 41
+Diabetes 41
+Self care 42
+New models of care 43
+Looking to the future 44
+7
+Executive Summary
+Since 2010 this Government has made its commitment to reducing early deaths from the five
+big killers very clear. The Secretary of State’s Call to Action in 2013 challenged the system to
+work together towards England becoming amongst the best in Europe at reducing premature
+mortality by 2020. It also started an open and honest debate across the newly established
+system on how best to reduce premature mortality.
+In 2014, Living Well for Longer: National support for local action (LWfL) set out the detail of the
+national actions taken by the Department of Health, wider government, NHS England and
+Public Health England (PHE) in the prevention, early diagnosis and treatment of the five big
+killer diseases and to reduce health inequalities. It showed how the national organisations would
+support local leadership and interventions
+A year later things have moved on further and faster than we might have anticipated; the
+reforms have allowed us to do things differently and as a result the system is in a much better
+place to deliver the ambitions of LWfL.
+NHS England (in the Five Year Forward View (5YFV)) and PHE (in From evidence into action)
+have published long term plans which echo the need to prioritise and mainstream prevention as
+fundamental in improving outcomes for people and maintaining the sustainability of the health
+and care system. There is a similar emphasis in the voluntary sector.
+Reducing premature mortality in the new health and care environment
+Progress towards developing the systems and behaviour change required to deliver the
+ambition has been steady across the sector over the past year and, while the impact on
+outcomes will take a while to show, the plans are in place to demonstrate the system is
+prepared and on the right track.
+This report addresses progress in three areas, identified by the Richmond Group in their report
+What is preventing progress? which provides the foundations for action. The first is shared
+system leadership. LWfL initiated the new system’s drive towards improving outcomes for the
+people of England and demonstrated the Government’s commitment to the joint system
+approach.
+However the responsibility to drive and support those changes has transferred to local
+organisations supported by NHS England and PHE, working alongside their partners in local
+government. The 5YFV sets out the plans both organisations have to work in partnership and
+establishes an overarching governance to ensure this collaboration becomes a reality.
+The second theme is accountability and transparency which aligns with this Government’s
+commitment to making sector wide information available in an easy to understand, regularly
+updated form that is useful to the public and professionals alike. MyNHS brings health and care
+data together in one place for the first time to allow comparison at a local level. 
+Living Well for Longer: One year on, 2015
+8
+Finally, ensuring prevention is front and centre is a common refrain across the sector but for the
+first time, with the establishment of an NHS prevention programme there is a clear way forward.
+With an initial focus on diabetes the joint NHS Prevention Board will provide the structure
+through which NHS England supports PHE’s strategies and priorities in public health, ensuring
+they are delivered.
+Delivering Living Well for Longer and beyond
+The deliverables are described under the familiar headings of prevention, early diagnosis and
+treatment. Some have been achieved early and others have flexed or been modified when an
+alternative action has emerged. These are listed below with detailed information provided in this
+report:
+Next steps
+It is essential that NHS England, local NHS bodies, PHE and local authorities continue to build
+on progress, ensuring that the priorities of prevention, early diagnosis and effective, evidence
+based treatments are normalised in all future policy developments and account is taken of
+health inequalities.
+Shared system leadership and recognising where there are common goals is fundamental to
+successful progress. NHS England and PHE have established clear structures and governance
+around common areas of interest with plans on how they will work together on cross-cutting
+themes.
+Greater availability of accessible local information will stimulate self-improvement rather than
+relying on centrally driven performance targets. Increasing accountability and transparency will
+Prevention
+• Reducing the burden
+of high blood pressure
+• Reducing obesity
+• Increasing levels of
+physical activity
+• Reducing smoking
+prevalence
+• Reducing harmful
+alcohol consumption
+• NHS Health Check
+Early
+Diagnosis
+• Symptom awareness
+campaigns
+• Cancer screening
+• Access to scientific
+and diagnostic
+commissioning
+information
+• Prime Minister's
+Challenge Fund Pilots
+Treatment
+• Stimulating a focus on
+premature mortality
+and incentives
+• Proton beam therapy
+• Service reconfiguration
+• Making every contact
+count
+• Reducing mortality for
+people with learning
+disabilities 
+9
+mean localities have meaningful data and information to judge performance as well as hold
+organisations and professionals to account for the quality of their services and local outcomes.
+That prevention is at the heart of a sustainable health and care system is now embedded in the
+plans and priorities of NHS England and PHE with a common understanding of priorities and a
+shared commitment to deliver. In addition, the health and care reforms have put the right
+organisations in the right places and the more devolved system is able to deliver responsive
+and tailored services to meet local needs, including on reducing early deaths and health
+inequalities.
+There are also a number of more specific improvements underway to improve outcomes for
+patients, these include: mental health, cancer, liver disease, acute kidney injury, sepsis,
+diabetes, self-care, and on new models of care.
+Looking to the future
+One year after LWfL was published we find ourselves with an opportunity to make real change
+across the system. We have the right organisations in place, newly established mechanisms to
+support and collaborate with each other and clearly articulated commitments to delivering a
+paradigm shift in how health and care, in its broadest sense, is delivered.
+There is consensus on the areas that we need to focus on to maximise the impact on the health
+and care system and on reducing premature mortality. We either know, or are building the
+evidence base of what works and are agreed about the benefits of working as a broad coalition
+to implement the processes, services and systems.
+The document sets out the next steps under the previous headings of shared system
+leadership, accountability and transparency as well as putting prevention first.
+It concludes that it is now time for the Department of Health to step back and let the system as a
+whole, as well as each component part, do its work; while Government continues to undertake
+the actions only it can carry out, including providing the framework within which the health and
+care system works which recognises the importance of reducing avoidable mortality.
+For the future, the Department’s role will be to hold partners to account to deliver all this,
+including how well the inequalities duties for the Secretary of State and NHS England have
+been fulfilled. We will remain an active partner in the coalition of effort across the system and
+will still play a key role in supporting the system at all levels to do what is necessary to reduce
+premature mortality and move us towards being amongst the best in Europe by 2020.
+Living Well for Longer: One year on, 2015
+10
+1. Introduction
+1.1 When we published Living Well for Longer: National Support for Local Action to Reduce
+Premature Avoidable Mortality (LWfL) the Department made a commitment to review and
+report on progress towards the delivery commitments in LWfL.
+1.2 This document provides that update on LWfL at a national level and, as with the original,
+some case studies and information setting out how ideas and evidence are put into
+practice at a local level. It also includes information on programmes and projects which
+have been initiated since April 2014 that will be key to delivering the required reductions in
+premature mortality in the short and longer term. Finally it provides an outline on next
+steps for the national organisations.
+1.3 It is important to note that, whilst we are confident the actions in LWfL will have an impact
+on reducing premature mortality, this will take time to become visible within the mortality
+statistics as will reductions in health inequalities. As a consequence this report focuses on
+the measures of activities undertaken and the changes in behaviours that will lead to the
+longer term reductions in mortality.
+1.4 In addition, while the majority of deliverables in LWfL have continued to be seen as key to
+delivering the reduction in premature mortality, in some cases the evidence or priorities
+have changed so the discussion and outputs reflect these changes. For example NHS
+England’s focus on prevention and management of acute kidney injury and sepsis and
+their work with Public Health England on diabetes prevention are priorities that have
+emerged since April 2014.
+11
+2. Setting the scene
+2.1 This Government made clear its intention to focus on reducing premature mortality in
+England from the five big killers – cancer, heart disease, stroke, respiratory and liver
+disease - from the outset. The Secretary of State’s Call to Action1
+recognised that, while
+great health improvements have taken place over previous decades, in comparative terms
+we perform poorly2
+and we continue to see deep-seated inequalities between different
+regions, smaller areas and groups in society. In light of this evidence the Secretary of
+State challenged the system to work together towards England becoming amongst the
+best in Europe at reducing premature mortality by 2020.
+2.2 We recognised that achieving such a challenging ambition would require effective
+collaboration at national, regional and local level. The reforms to the health and care
+system required greater alignment of effort across the whole system to improve health
+outcomes and reduce health inequalities. The NHS and Public Health Outcomes
+Frameworks recognised this need to focus on premature mortality, with shared indicators
+included in both, requiring effort on all fronts, from prevention to earlier diagnosis to
+treatment.
+2.3 Living Well for Longer (LWfL)3
+set out the detail of this joint enterprise across the national
+players in the health and care system. Supported by the Reducing Avoidable Mortality
+Programme, it has provided the mechanism through which the Department of Health (DH),
+in partnership with system leaders, has led and facilitated this collective approach. LWfL
+brought together, in one place, the national actions taken by DH and wider Government,
+NHS England and Public Health England (PHE), in the prevention, early diagnosis and
+treatment of the five big killer diseases and shows how they will support local leadership
+and interventions.
+2.4 Of course it is not all about government and national players. When the Call to Action was
+published in 2013 the Secretary of State was clear that he intended it to stimulate debate
+not just in the health and care sector, but in the wider community as well. What we have
+seen is a groundswell of interest and engagement with other stakeholders playing a key
+role in providing information, contacts and services which impact on the goal of reducing
+premature mortality.
+
+1
+Living Well for Longer: A call to action to reduce avoidable premature mortality (March 2013), Department of
+Health; https://www.gov.uk/government/publications/living-well-for-longer-a-call-to-action-to-reduce-avoidablepremature-mortality
+2 UK health performance: findings of the Global Burden of Disease Study 2010. Murray CJL, Richards, MA,
+Newton, JN, Fenton KA, Anderson HR, Atkinson C, Bennett D et al; The Lancet –381, 9871, pp 997-1020 (March
+2013)
+3
+Living Well for Longer: National Support for Local Action to Reduce Premature Avoidable Mortality (April 2014),
+Department of Health; https://www.gov.uk/government/publications/helping-people-live-well-for-longer
+Living Well for Longer: One year on, 2015
+12
+2.5 A year later things have moved on further and faster than we might have anticipated; the
+reforms have allowed us to do things differently and as a consequence the system is now
+in a much better place to deliver the ambitions of LWfL. A recent report4
+suggests that
+embedding public health within local authorities is expected to lead to better health
+outcomes and has ‘given cause for optimism’.
+2.6 Overall, we continue to be relatively good at treatment5
+and we are improving our capacity
+and capabilities in early diagnosis but the reality is that healthcare has only a limited
+impact on our health. Undoubtedly it is important that, once we are unwell, the care we
+receive is the best possible, and this has been demonstrated in improvements in stroke
+and heart attack care over the past decade or so.
+2.7 However, to reduce the impact of long term conditions we need to re-focus attention on
+how people live their lives, the impact of social circumstances on health, our experiences
+and the opportunities we have to influence our own health. This is crucial not just because
+of the impact on individual lives but also if the system which we value and rely on is to be
+sustainable into the future. Now, through a coalition of effort, we are in a much better
+position to redouble efforts to address the prevention of disease and self-care across the
+system.
+2.8 There is a new degree of consensus about direction of travel and emphasis on delivery of
+prevention services by the appropriate organisations at the right level. Both NHS England
+and PHE have recently published long term plans which echo each other in terms of the
+need to prioritise and mainstream prevention, be that primary prevention in public health or
+secondary and tertiary prevention in the NHS. Both documents acknowledge the need to
+‘harness’ the potential of patients, employers, communities and all levels of government in
+addressing the issue of preventing the development of disease.
+2.9 PHE’s new strategy6
+, From evidence into action, looks to stimulate a focus on creating and
+protecting health, not only treating ill-health; identifying the opportunities for tackling the
+major public health issues using evidence including behavioural sciences. These evidence
+based priorities include obesity, smoking and harmful drinking; the major lifestyle risks
+which contribute to our higher levels of premature mortality. There is also a significant
+focus on new drivers and opportunities to ensure a sustainable health and care sector,
+these include the chance to develop evidence-based prevention services, such as for
+diabetes, with the NHS and implement them at scale.
+
+4
+In good health: Public health teams in local authorities Year 2; (February 2015); Royal Society for Public Health;
+http://www.rsph.org.uk/filemanager/root/site_assets/our_work/reports_and_publications/publichealth_03.02.15.ind.
+2_.pdf
+5 Mirror, mirror on the wall: How the performance of the US health care system compares internationally (June
+2014); Davis K, Stremikis K, Squires D, Schoen C; The Commonwealth Fund
+http://www.commonwealthfund.org/publications/fund-reports/2014/jun/mirror-mirror
+6
+From evidence into action: opportunities to protect and improve the nation’s health (October 2014); Public Health
+England; https://www.gov.uk/government/publications/from-evidence-into-action-opportunities-to-protect-andimprove-the-nations-health
+13
+2.10 NHS England’s Five Year Forward View7
+(5YFV) is also explicit in its commitment to get
+‘… serious about prevention’. This plan, though developed by NHS England, has
+signatories from the major health arm’s length bodies; PHE, Health Education England
+(HEE), the Care Quality Commission, Monitor and the NHS Trust Development Authority
+(TDA).
+2.11 It outlines the need to incentivise and support healthier behaviours through information,
+targeted personal support and wider changes. It also commits the NHS to work closely
+with local authorities, through health and wellbeing boards and directly, supporting them in
+their statutory responsibilities for improving the health of their populations. The intention is
+that the NHS will support the refocus on prevention through three main routes.
+ The first, empowering patients by ensuring people have access to information and
+support to manage their health and where required with increased direct control over
+their care.
+ The second is through engaging communities, involving them in decisions about the
+future of health and care; with better support for carers, working constructively with the
+voluntary sector and using the role of the NHS as an employer to achieve wider health
+goals.
+ Finally, using the NHS as a social movement, accompanied by actions by the system
+itself.
+2.12 There is a similar emphasis in the voluntary sector8
+, where there is a recognition that
+prevention should be at the heart of the health services and at centre of policy making.
+Enabling people to live longer, healthier lives at the same time as ensuring the health and
+care system is sustainable in the longer term.
+
+7
+Five year forward view (October 2014); NHS England; http://www.england.nhs.uk/ourwork/futurenhs/
+8 What is preventing progress? Time to move from talk to action on reducing preventable illness (November 2014)
+http://www.richmondgroupofcharities.org.uk/What-is-preventing-progress-2014.pdf
+Living Well for Longer: One year on, 2015
+14
+3. Reducing premature mortality in the
+new health and care environment
+3.1 Despite the significant changes the system has undergone over the past year a number of
+key developments have taken place which we believe have put us in a much stronger
+place in terms of action to reduce early deaths.
+3.2 The Department of Health (DH) has grown into its system steward role. We have
+increasingly been able to step back from directly developing policy to leading and aligning
+policy and activity whilst holding others to account. NHS England and PHE have key roles
+in supporting local organisations to deliver services that are tailored to local need and to
+do so by developing and providing evidence to inform planning and implementation.
+3.3 The Richmond Group of Charities identified three particular areas which they suggest
+should provide the foundations for action; to translate commitments and evidence into
+concrete actions and outcomes for the population. These are shared system leadership,
+accountability and transparency and the importance of prevention. We have used these as
+a helpful way to set out what has happened over the past year and plans for the future.
+Shared system leadership
+3.4 Living Well for Longer (LWfL) initiated the new systems drive towards improving outcomes
+for the people of England, setting out the scale of the challenge to reduce premature
+mortality and crystallising the themes of the greater emphasis on prevention. It also
+demonstrated the Government’s commitment to the joint system approach.
+3.5 However, it is no longer the Government’s role in the new system to dictate to local
+services how they deliver the desired reductions in premature mortality. The responsibility
+to drive and support those changes has transferred to local organisations supported by
+NHS England and PHE, working alongside their partners in local government.
+3.6 The 5YFV and From evidence into action both emphasise the need for all partners to work
+together and establishing the overarching governance to ensure this collaboration
+becomes a reality. This collaboration will focus on a number of cross-cutting common
+areas of interest, including prevention, new models of care, the NHS as a healthy
+employer and how to engage the public in taking more responsibility for their health. There
+is more about these, particularly on prevention, later in this document.
+Accountability and transparency
+3.7 The Government has been clear that the system should move away from a culture of
+targets to one of transparency; targets matter but they are not the best or only way to
+improve outcomes. It is about increasing the availability of accessible information to
+stimulate self-improvement rather than enforcing centrally driven performance targets;
+using natural professional competitiveness combined with the pressure of peer review. 
+15
+3.8 On this, the system as a whole has much to learn from local government and public health
+where a wealth of information is already available on performance and outcomes, for
+example on local government’s LG Inform9
+and PHE’s longer lives10
+. These sites provide
+meaningful data and information to enable intermediaries such as local healthwatch to
+hold organisations and professionals to account not just for the quality of their services and
+care but also for the outcomes.
+3.9 Alignment and joint working has been integral to the design of the new whole system
+approach. At its heart are the outcomes frameworks which were co-produced by DH and
+system leaders. These provide a series of agreed global outcome measures which provide
+indicators, some shared, of how well organisations and localities are delivering the
+common goal of reducing premature mortality and there is an increasing focus on
+inequalities. The detail of how the outcomes are delivered is up to local areas, assisted by
+NHS England and PHE who are responsible for providing evidence and support for local
+commissioning and delivery.
+3.10 To support this agenda more widely across the health and care sector the Secretary of
+State has commissioned system leaders to develop MyNHS. This website provides easy
+to understand, regularly updated, information to the public and professionals alike. It brings
+health and care data together in one place for the first time, allowing comparison of the
+performance of local health and care services, GP practice, public health and health
+outcomes.
+Ensuring prevention is front and centre
+3.11 The importance of prevention has been acknowledged in many strategies and plans over
+the past decades. However, we have rarely had such a degree of consensus amongst all
+partners in the NHS and public health that this must be addressed now, if the system is to
+be sustained into the future.
+3.12 The 5YFV makes it clear that NHS England is committed to supporting PHE’s strategy and
+priorities on prevention and will work with them to ensure they are delivered. NHS England
+is also committing the NHS itself to becoming an agent for change through incentivising
+and supporting healthier behaviours; supporting local democratic autonomy to design
+place-based solutions; proactive primary care engaging in targeted secondary prevention,
+supporting people to stay in work and employers to support them to do so.
+3.13 As part of the overarching governance to support delivery of the 5YFV, a joint NHS
+Prevention Board has been established across the partner organisations to ensure
+coordination of the programmes of work. There is more detail on the NHS Prevention
+Programme in ‘Looking to the future’.
+
+9
+http://lginform.local.gov.uk/
+10 http://healthierlives.phe.org.uk/topic/mortality
+Living Well for Longer: One year on, 2015
+16
+4. Sector Engagement
+4.1 With his Call to Action in 2013, the Secretary of State for Health wanted to open an
+enduring and sustainable debate on reducing premature mortality. He felt it was too
+important an issue to discuss through short-term consultations; rather, he wanted there to
+be open and honest debate across the newly established system, and for that system to
+work hand in hand with experts in national charities, royal colleges and in academia.
+4.2 Over the past 12 months, with the system being in transition, it has been essential to work
+with our partners across the wider health and care system at a local as well as a national
+level. We have engaged with many organisations and individuals whose activities directly
+contribute to reducing premature mortality and health inequalities, and some are working
+directly with us in DH, with NHS England and with PHE to help drive improvements in
+outcomes.
+4.3 Some of this engagement has been through DH’s formal channels such as the Health and
+Care Partnership, some has been through Twitter and the Living Longer11 website which
+has hosted a range of blogs from a wide variety of contributors including Rethink, the
+Richmond Group, the Queen’s Nursing Institute and the Royal Society for Public Health.
+We have engaged with the sector through other formal means such as the Public Health
+System Group convened by PHE, and the Public Health Cross-government Officials
+Group. Reducing premature mortality has also been a regular topic at Secretary of State’s
+weekly meetings with stakeholders.
+4.4 Much of our engagement with stakeholders has driven work forward on reducing
+premature mortality at the strategic level. For example in helping to shape and develop a
+whole system approach to prevention and better management of comorbidities12. At the
+more specific level experts and system leaders have been working with us on focused
+priority areas such as:
+ PHE have convened a Blood Pressure System Leadership Board which involves
+partners across national and local government, the health service, voluntary sector and
+academia. This cross-sector group ensures there is shared ownership of this issue and
+oversee a programme of work to improve the prevention, detection and management of
+high blood pressure. The first phase of their work culminated in publication of Tackling
+high blood pressure: from evidence into action13
+
+11 http://livinglonger.dh.gov.uk/living-longer/
+12 Comorbidities:a framework of principles for system-wide action; (May 2014) Department of Health;
+https://www.gov.uk/government/publications/better-care-for-people-with-2-or-more-long-term-conditions
+13 Tackling high blood pressure: from evidence into action; (November 2014); Public Health England;
+https://www.gov.uk/government/publications/high-blood-pressure-action-plan
+17
+ NHS England have involved a broad range of partners in their specific work
+programmes on supporting improved follow up to health checks, and the
+implementation of NICE guidance on behaviour change in support of ‘making every
+contact count’. Stakeholder events were held on both workstreams, and an Expert
+Reference Group has been established to support the behaviour change workstream.
+4.5 PHE and the LGA working together with local councils are embedding a sector-led
+approach to performance improvement. The Health and Wellbeing System Improvement
+Programme in 2013-14, funded by DH, provided a range of products. These included peer
+challenges, an updated self-assessment tool and a wealth of shared knowledge and
+intelligence with a focus on reducing premature mortality and improving the quality of life
+for local communities.
+4.6 What has been essential is the continued commitment to a common purpose by our
+partners and stakeholders beyond DH, PHE and NHS England. ‘Living well for longer’ has
+provided that focal point for debate across the health and care system, and with our
+partners in the wider system.
+Living Well for Longer: One year on, 2015
+18
+5. Delivering Living Well for Longer and
+beyond
+5.1 Progress towards developing the required systems and behaviour change to deliver the
+ambition has been steady across the sector and, while the impact on outcomes will take a
+while to show, the plans that are in place demonstrate the system is prepared and on the
+right track.
+5.2 This section sets out the detail of what has been achieved in the last year at national level
+in terms of the specific deliverables set out in LWfL. Some have been achieved early and
+others have flexed or been modified when an alternative action has emerged or priorities
+have changed.
+5.3 We have considered the deliverables under the familiar headings of prevention, early
+diagnosis and treatment to ensure consistency with the original document.
+Prevention
+Reducing the burden of high blood pressure
+5.4 Raised blood pressure is the second biggest risk factor for disability and premature
+mortality. We have seen improvements in prevention, detection and management in the
+last decade which have prevented or postponed many deaths. However, in comparison to
+international leaders we have significant scope for improvement. Evidence suggests only
+four in 10 adults with high blood pressure in England are diagnosed and managed
+effectively, in part because people are often unaware they have the condition or of the
+risks to their health of uncontrolled high blood pressure.
+5.5 High sodium intake is a major contributing factor to high blood pressure, and reductions of
+15% in salt intake have been achieved since 2001 by Government working with industry.
+This equates to over 5,000 premature deaths saved each year.
+5.6 Despite the significance of the condition, there had not been a government programme on
+the topic in recent years. PHE have now brought together insight and expertise from a
+wide range of partner organisations in establishing the Blood Pressure System Leadership
+Board, with representation from national and local government, the health system,
+voluntary sector and academia.
+5.7 The Board’s first joint product, Tackling high blood pressure: From evidence into action14
+,
+proposes areas of focus for the prevention, detection and management of high blood
+pressure. It sets out how organisations at all levels can tackle these issues, and sets out
+commitments amongst Board members to contribute towards this.
+
+14 Tackling high blood pressure: from evidence into action; (2014); Public Health England;
+https://www.gov.uk/government/publications/high-blood-pressure-action-plan
+19
+5.8 This is supported by a resource hub for local leadership15
+, public-facing quiz16
+, economic
+review of interventions’ cost-effectiveness17 and data on local performance variation18
+which is intended to be used alongside the plan. These materials have had over 20,000
+visits since they were launched in November. Important work continues on implementation
+and to communicate key insights from the programme to activate and support local
+professional leadership. Partners are also working to inform and engage the public on this
+issue.
+5.9 In LWfL, and as part of the wider programme on blood pressure, PHE undertook a
+marketing pilot in partnership with local colleagues in Wakefield. More than 3,500
+individuals were tested and received lifestyle advice across community, pharmacy and
+workplace settings. Following evaluation PHE are developing a toolkit for local use and
+adaptation by areas interested in developing their own testing initiatives (including medical
+protocols, marketing materials and learning points).
+5.10 More broadly PHE is embarking upon a new lifestyle-focused marketing programme for
+mid-life adults, which will address the risk factors for high blood pressure.
+Reducing obesity
+5.11 The prevalence of obesity has levelled off in recent years, but remains too high. Sixty two
+percent of adults and 29.5% of children aged 2-15 are either overweight or obese19
+.
+Obesity presents a significant public health challenge; it is the leading cause of type 2
+diabetes, heart disease and cancer and health inequalities are manifest. Tackling obesity
+remains a priority for the Government and as a consequence PHE and DH have continued
+to focus considerable attention on obesity policy.
+5.12 The Government has made significant progress in school food. The School Food Plan20
+,
+was published by the Department for Education in 2013, and is designed to increase the
+
+15 https://www.gov.uk/high-blood-pressure-plan-and-deliver-effective-services-and-treatment
+16 http://www.nhs.uk/Tools/Pages/bloodpressurequiz.aspx
+17 http://www.optimitymatrix.com/events/optimity-matrix-report-cost-effectiveness-review-of-blood-pressureinterventions-is-published
+18 http://healthierlives.phe.org.uk/topic/hypertension
+19 Health Survey for England - 2013, Trend tables (Dec 2014): www.hscic.gov.uk/catalogue/PUB16077
+20 http://www.schoolfoodplan.com/
+Stockport CCG is working to raise awareness of the importance of knowing your blood pressure. They
+estimate one in four adults in Stockport has high blood pressure and the hypertension programme ‘Know
+your numbers’ aims to aims to ensure more people know if they need to take action.
+As part of the programme, health kiosks were set up for six months (April to October 2014) at sites across
+Stockport to allow individuals to measure their blood pressure, weight, body mass index (BMI), body fat
+content and heart rate. The technology proved popular, people were attracted to health kiosks as a method of
+receiving health information.
+For more information go to http://stockportccg.org/blood-pressure-2/
+Living Well for Longer: One year on, 2015
+20
+quality and take up of school meals, and inspire a love of good food in children to help
+boost academic performance and allow them to lead healthy lives.
+5.13 The Plan outlines actions to improve food and food awareness in schools. These include
+revising the existing school food standards, setting up breakfast clubs in schools with a
+high proportion of pupils entitled to free school meals, and including a separate strand for
+cookery in the new Design and Technology curriculum. Alongside this, every pupil in
+reception, year 1 and year 2 attending a state-funded school is now entitled to a nutritious,
+healthy free school lunch.
+5.14 There has also been considerable attention paid to obesity by the research community, the
+McKinsey Global Institute published a report in November into reducing obesity with a
+focus on costs and impact21 and the Scientific Advisory Committee on Nutrition (SACN)
+produced a draft report22 on carbohydrates (not obesity specifically) which was out for
+consultation until September. SACN’s final report on carbohydrates is due later in 2015,
+along with PHE’s review of the evidence on reducing sugar.
+5.15 Forty two businesses have committed to reduce calories, including sugar, through the
+Public Health Responsibility Deal’s calorie reduction pledge. Some impressive reductions
+have been made in major brands by reformulation and developing smaller portion size
+packs. Seventy per cent of the high street takeaways and fast food restaurants also have
+calories clearly labelled.
+5.16 The Change4Life23 social marketing programme continues to work to ensure fewer
+children become overweight through inspiring families to eat well and move more. The
+programme has high levels of engagement with local authorities and schools and more
+than 70,000 local supporters. Change4Life is on target to reach 500,000 sign-ups by end
+of financial year 2014/15. There were more than 292,000 registrations to the summer
+
+21 Overcoming obesity: An initial economic analysis; (November 2015); McKinsey Global Institute;
+http://www.mckinsey.com/insights/economic_studies/how_the_world_could_better_fight_obesity
+22 https://www.gov.uk/government/consultations/consultation-on-draft-sacn-carbohydrates-and-health-report
+23 http://www.nhs.uk/change4life/Pages/change-for-life.aspx
+Local produce & healthy eating at an inner city school
+At Charlton Manor Primary School in South East London a corner of the school grounds has been turned into
+a secret garden for learning, contemplation, food production and as a wildlife haven. Pupils are responsible
+for keeping livestock, including chickens and bees, and the resulting produce is either used in the school
+kitchen or sold by the children. The programme promotes links overseas and helps the children see how they
+can learn from or inspire other countries to use their land to produce local and sustainable food. They are
+now taking on more land to create even more locally grown produce, and expanding to involve a network of
+local schools.
+Recognising the importance of healthy eating and eating together, the headmaster has invested in a state-ofthe
+art teaching kitchen and employs teaching chefs to give the children the best possible learning
+experience. The children are involved in planning menus and serving lunch and it is no surprise that the
+school has achieved the Gold Award for Healthy Schools London. 
+21
+2014, 10 Minute Shake-up campaign and the 2015 Sugar Swaps campaign24 which
+started in January, is supporting families to cut back on sugar in their everyday food and
+drink.
+Increasing levels of physical activity
+5.17 Physical inactivity directly contributes to one in six deaths in the UK25 and the link
+between physical activity, ill-health and obesity is well established; with recent evidence26
+suggesting that exercise is more important than obesity in promoting longevity.
+5.18 The Government remains committed to promoting and increasing the levels of physical
+activity and has a national ambition, reflected in the Public Health Outcomes Framework,
+for a year on year increase in the proportion of adults doing 150 minutes of physical
+activity per week and a similar reduction in those who are 'inactive' (less than 30 minutes a
+week).
+5.19 We have a well-developed and wide-ranging programme of actions to achieve this. This
+includes:
+ Investing almost £222m in programmes such as the PE and Sport Premium for Primary
+Schools, School Games, and Change4Life Sports Clubs.
+ Investment of £1.2m in five English cities to deliver a range of interventions to support
+residents to build walking into their day-to-day lives.
+5.20 In February 2014, the Government published Moving More, Living More27 (MMLM), a
+cross-Government campaign to deliver a physical activity legacy from the 2012 Olympic
+and Paralympic Games. The Minister for Public Health chairs a sub-group of the Cabinet
+Committee for Olympic and Paralympic Legacy which has achieved significant progress in
+the last year in taking forward the commitments in MMLM.
+5.21 Examples include ongoing work to translate the Chief Medical Officer’s guidelines into
+easily communicable messages for health professionals and the public; measures to
+increase the amount of walking and cycling. To this end, the recent Government
+amendment to the Infrastructure Bill is another clear indication of Government’s
+commitment to find the resources needed to support cycling and walking infrastructure in
+
+24 https://sugarswaps.change4life.co.uk/
+25 Effect of physical inactivity on major non-communicable diseases worldwide: an analysis of burden of disease
+and life expectancy; (July 2012); Lee I-M, et al; The Lancet 380:219-29
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)61031-9/fulltext
+26 Physical activity and all-cause mortality across levels of overall and abdominal adiposity in European men and
+women: the European Prospective Investigation into Cancer and Nutrition Study (EPIC); (Jan 2015); Ekelund U, et
+al; Am J Clin Nutr, 10.3945/ajcn.114.100065
+http://ajcn.nutrition.org/content/early/2015/01/14/ajcn.114.100065.full.pdf+html
+27 Moving More, Living More: The Physical Activity Olympic and Paralympic Legacy for the Nation; (Feb 2014); HM
+Government; https://www.gov.uk/...data/.../moving_living_more_inspired_2012.pdf
+Living Well for Longer: One year on, 2015
+22
+this country and raising public awareness with campaigns such as Sport England’s recent
+This Girl Can28 campaign.
+5.22 In October 2014, Public Health England published, Everybody active, Every day (EAED).
+Building on MMLM, this framework aims to increase the levels of physical activity in local
+communities by identifying key areas where more action is needed. Public Health England
+have been organising a number of workshops across England to stimulate discussion
+about ways to take forward the recommendations in EAED.
+5.23 Finally, as part of the Responsibility Deal, the department has been working successfully
+with a range of organisations to promote physical activity. Organisations have been
+reaching out in a variety of ways, such as subsided gym membership, walking groups,
+programmes for minority groups to promote the value of being active.
+5.24 The Department of Health will continue work across Government and with other partners
+to increase opportunities for people to be active and achieve its national ambition for a
+more active nation.
+Reducing smoking prevalence
+5.25 Tobacco use remains a major public health challenge; smoking is harmful not only to
+smokers but also to people around them. There has, however, continued to be good
+progress over the past year on delivering the national ambitions to reduce smoking rates in
+England by the end of 2015, set out in the Tobacco Control Plan for England29. These
+were to reduce rates from:
+ 21.2% to 18.5% or less among adults, with the current figure at 18.4%,
+ 15% to 12% or less among 15 year olds, with the current figure at 8%, and
+
+28 https://www.sportengland.org/our-work/equality-diversity/women/this-girl-can/
+29 Healthy Lives, Healthy People: a Tobacco control Plan for England; (March 2011); Department of Health;
+https://www.gov.uk/government/publications/the-tobacco-control-plan-for-england
+Responsibility Deal – Active Travel Pledge
+Heathrow is investing in cycling and in 2012 opened the Heathrow Cycle Hub, the only airport with its own bike
+shop. The facility provides staff with discounted cycles, equipment and clothing, servicing where the labour is
+free and runs both maintenance and rider training. Heathrow is also an affiliated racing club with British
+Cycling. As well as the cycle hub, Heathrow has over 500 cycle parking spaces around the campus that are
+both covered and secure and there are additional locker and showering facilities available to staff.
+Getting fit and having fun
+Fit Reds is a local community health outreach programme in Barnsley offering men age 35+ the chance to
+take part in an 8 week football fitness course. Participants are also offered access to an indoor gym as well as
+diet and nutrition sessions to help reduce the high levels of cardiovascular disease in Barnsley. It’s been so
+successful they plan to offer courses to women this year. http://barnsleyfccommunity.co.uk/health/join-the-fitreds-programme
+
+23
+ 14% to 11% or less among pregnant mothers (measured at the time they give birth),
+with the current figure at 11.4%
+30
+.
+5.26 Adult smoking prevalence in England fell to 18.4% in 2013 which is the lowest figure since
+records began and down from 19.5% in 2012. However, within this there are significant
+inequalities. Smoking is higher among people in routine and manual jobs, and there is a
+direct correlation between smoking and income – those who earn the least smoke the
+most. For example, smoking prevalence is 11% for those on higher incomes, but 23% for
+those on lower incomes. Similarly, smoking prevalence among more highly educated
+groups is 10% but rises to 34% among those with lower qualifications.
+5.27 As it committed to do in LWfL, PHE is running an annual Smokefree marketing programme
+with the aim of triggering 750,000 quit attempts. This activity is currently still live but we are
+on track to meet our challenging target.
+5.28 Significant progress has been made under the Government’s comprehensive Tobacco
+Control Plan for England which was published in March 2011. A focus has been on
+protecting children from tobacco and nicotine. In 2011, the sale of tobacco from vending
+machines was stopped and by April 2015, the open display of tobacco at retail points of
+sale will no longer be permitted. New laws have been made to stop smoking in vehicles
+carrying children from October 2015 and to stop adults buying tobacco on behalf of
+children. Regulations to introduce standardised packaging for cigarettes and an age of
+sale of 18 for e-cigarettes will be considered by Parliament before the end of March 2015.
+5.29 The UK actively supported the negotiations for a new European Union-wide Tobacco
+Products Directive, which was agreed in 2014. This Directive will bring the sale of
+flavoured tobacco (including menthol) to an end and will end the sale of small packs of
+cigarettes which can be more popular with children. Larger pictorial health warnings will
+be required and new rules relating the sale of e-cigarettes will also come into place. New
+arrangements, including unique security features, will also come into place across the
+European Union to contribute to efforts to control illicit tobacco.
+5.30 To promote health and wellbeing, DH has worked to encourage communities across
+England to reshape social norms, so that tobacco becomes less desirable, less acceptable
+and less accessible. The Government wants all communities to see a tobacco-free world
+as the norm and aims to stop the perpetuation of smoking from one generation to the
+next. Health Ministers have spoken in Parliament about their aspirations for a tobacco free
+generation. In recognition of this work in 2015, DH has been awarded the prestigious
+American Cancer Society’s Luther L Terry Award for exemplary global leadership in
+tobacco control.
+
+30 Statistics on Women's Smoking Status at Time of Delivery, England - Quarter 3, 2014-15; (March 2015);
+http://www.hscic.gov.uk/catalogue/PUB16957
+Living Well for Longer: One year on, 2015
+24
+Reducing harmful alcohol consumption
+5.31 Alcohol is amongst the four biggest behavioural risk factors for illness and death and
+continues to be an area of concern for the health and care sector, with greater harm
+among more disadvantaged groups.
+5.32 Through the Responsibility Deal, companies committed to voluntarily remove one billion
+units of alcohol from the market (around 2%) by the end of 2015. This was achieved two
+years early and is already 0.3bn over target. Reducing the strength of alcohol in people’s
+drinks is expected to contribute, at no cost to the public purse, to a significant decrease in
+health harm. Even small reductions by many companies affecting a wide customer base
+are expected to help reduce health harm31
+. Six new pledges were agreed in 2014,
+including a pledge to sell no further single-serve cans with more than 4 units of alcohol,
+and are expected to help improve these results.
+5.33 Commitments to provide consumer information are also valuable. For example, supporting
+alcohol misuse identification and brief advice programmes, such as the NHS Health
+Check, delivered by health professionals, which have strong evidence of changing
+behaviour.
+5.34 Companies committed to having 80% of bottles and cans displaying unit content, the Chief
+Medical Officer’s lower-risk guidelines and a warning about drinking when pregnant by the
+end of 2013. An independent report in November 2014 found that 79.3% of labels provided
+all three elements correctly (meeting the commitment); 92.8% provided correct pregnancy
+information; 87% provided correct unit content; and 82.8% provided correct lower-risk
+drinking guidelines32
+.
+5.35 Pubs and shops committed to a voluntary display of unit and health information. Ipsos Mori
+carried out an independent survey this year, of whether the public saw such information.
+Their report found that over a quarter of respondents reported seeing a British Beer and
+Pub Association (BBPA) information image; over two in five 18-24 year-olds reported
+seeing at least one BBPA image; over a quarter of respondents have seen something
+similar, but different, to BBPA materials; more than half those seeing different materials
+also reported seeing BBPA materials.
+5.36 The remit letter33 has asked PHE to review the evidence and provide advice on the public
+health impacts of alcohol and evidence-based solutions. PHE have brought together an
+expert advisory group including key academics to identify the latest data on harm from
+
+31 Second interim monitoring report: 2013 data: Monitoring the Public Health Responsibility Deal Alcohol Network
+pledge to reduce 1 billion units of alcohol sold by the end of 2015; (December 2014); ONS;
+https://www.gov.uk/government/statistics/units-of-alcohol-sold
+32 Audit of compliance of alcoholic beverage labels available from the off-trade with the Public Health
+Responsibility Deal Labelling Pledge; (November 2014);Campden BRI;
+https://responsibilitydeal.dh.gov.uk/campden-bri-report-on-responsibility-deal-alcohol-labelling-pledge/
+33 PHE Remit letter: 2014-2015; (June 2014); Department of Health;
+https://www.gov.uk/government/publications/phe-remit-letter-2014-to-2015
+25
+alcohol and evidence on the impact of various policy approaches. PHE are currently
+undertaking an evidence review and the report to Government will be submitted in the
+spring.
+NHS Health Check
+5.37 NHS Health Check is an ongoing national programme to assess, increase awareness and
+manage risks for people aged 40-74 who have not been diagnosed with an existing
+vascular disease. Modelling shows that through systematically addressing the top seven
+causes of preventable mortality the programme has the potential to detect and help people
+manage and prevent development of disease or death.
+5.38 Over the past 12 months PHE has been supporting local authorities through a range of
+mechanisms to increase the number of health checks offered and received by people aged
+40-74 across the country, as part of the NHS Health Check Programme.
+5.39 Specifically PHE has developed and launched new branded resources to enable local
+authorities to promote health checks locally and content for the NHS Health Check pages
+on the NHS Choices website including a service directory and case stories. This has been
+well received; within the first few weeks over 100,000 people had viewed the site.
+Publication of PHE’s competency framework and workbooks; piloting of an improvement
+offer; the publication of NHS Health Check data on the Longer Lives atlas; delivering a
+programme of webinars and the inclusion of prompts in the CQC inspection content are a
+few of the key actions that have served to strengthen delivery quality and reach.
+5.40 In 2014/15 PHE set out a shared commitment to offer the NHS Health Check to 20% of the
+eligible population and to increase uptake towards 66%. Local authorities have made
+excellent progress and are on track to offer the NHS Health Check to more than 3 million
+people, nearly 250,000 more than in 2013/14. While efforts have also been focussed on
+increasing uptake we know that effecting behaviour change is complex. PHE will continue
+to develop, support and disseminate the findings of projects that evaluate the impact of
+projects that apply behavioural insights to increase uptake.
+5.41 For the programme to maximise its prevention potential it is also essential that people
+taking up an NHS Health Check receive the correct clinical and behavioural support that
+they need to reduce the risk of preventable diseases. PHE, NHS England and DH will
+continue to work together to encourage and enable NHS Health Check commissioners and
+providers to deliver this critical element of the programme. This is illustrated by the recent
+commitment by NHS England and PHE to introduce at scale national evidence-based
+diabetes prevention programme for those people found to be at risk of diabetes following
+the NHS Health Check. 
+Living Well for Longer: One year on, 2015
+26
+System wide prevention activity
+5.42 With prevention being identified as key in delivering a sustainable health and care system
+PHE and NHS England have come together with experts to develop a new NHS
+Prevention Service. Senior leadership and governance for this is being provided through
+the newly established NHS Prevention Programme Board which includes Diabetes UK.
+The initial focus will be on developing the diabetes prevention programme but will also
+include work on implementation of other specific commitments from the 5YFV.
+5.43 Immediate tasks are to commission a review of the national and international evidence of
+diabetes prevention programmes, seek expressions of interest from local health
+economies to be involved in development of the programme and establish the baseline for
+current service provision of weight management services.
+Early diagnosis
+5.44 Despite improvements in prevention, some disease will always occur and acting promptly
+when warning signs appear is essential in preventing premature death. Increasing
+symptom awareness amongst the public, improving identification of disease in primary
+care and effective screening are all means by which we can improve early diagnosis and
+hence access to the right treatment, with a particular need to focus on disadvantaged
+groups where late presentation is a particular concern.
+Symptom awareness campaigns
+5.45 The Department of Health has, since 2010/11, funded a programme of symptom
+awareness raising campaigns under the brand Be Clear on Cancer (BCOC). These have
+been designed to tackle late presentation of patients with possible cancer symptoms and
+thereby promote earlier diagnosis of cancer, when the cancer is more treatable. Since
+April 2013 PHE has led on the campaigns, in partnership with DH and NHS England
+continuing to encourage people to seek early advice if they experience symptoms.
+5.46 During 2014/15 the campaigns have focused on:
+ A national campaign on breast cancer in women over 70 (from February to March
+2014) following the success of the regional pilot in early 2013;
+ regional campaigns on oesophago-gastric (North East and Border TV regions) and
+ovarian (North West TV region) cancers (from February to March 2014);
+ a repeat of the national lung cancer campaign (March to end of April 2014);
+Ensuring Cornish fishermen get their NHS Health Check
+Commercial fishermen in England are at particularly high risk of poor health outcomes. Cornwall Council set
+out to address this issue through the NHS Health Check programme, offering health checks for fishermen, on
+the quayside, by a dedicated outreach service and support for lifestyle changes, including cooking sessions to
+encourage healthy eating whilst at sea.
+A similar approach has been developed for local farmers; taking health checks to where farmers meet.
+For more information see: http://www.healthcheck.nhs.uk/document.php?o=788 
+27
+ a local skin cancer pilot in the South West (June to July 2014);
+ a repeat of the national ‘blood in pee’ (bladder and kidney cancers) campaign
+(October to November 2014);
+ a local pilot on prostate cancer in black men, in six London boroughs (October to
+November 2014); and
+ a national oesophago-gastric cancer campaign (end of January to end of February
+2015).
+5.47 PHE have also made available campaign specific briefing sheets for trusts, GPs and
+community pharmacies to support the cancer campaigns.
+5.48 The BCOC campaigns are supported by a significant body of evidence that indicate the
+impact of the activity. For example, in the months surrounding the 2012 national lung
+campaign there were 700 more people diagnosed with lung cancer than the same period
+the previous year. Also approximately 400 more had their cancers diagnosed at an early
+stage and around 300 additional patients had surgery as a first treatment of diagnosed
+lung cancer34
+.
+5.49 When looking at the 2013 BCOC national bladder and kidney cancer campaign, in
+England there was a 26% increase in the number of urgent GP referrals for suspected
+urological cancers (including suspected bladder and kidney cancers) from October to
+December 2012 to October to December 2013. For the same time period, in England, the
+number of bladder, kidney and all urological cancer diagnoses resulting from an urgent GP
+referral for suspected urological cancers increased by 8.2%, 22% and 14% respectively,
+with larger increases for males than females35
+.
+5.50 In addition to the campaigns on cancer, PHE have undertaken two other campaigns. The
+first, a pilot aiming to raise awareness of breathlessness and aid early diagnosis of a range
+of diseases such as chronic obstructive pulmonary disease, heart disease and lung cancer
+was run in Oldham and Rochdale in early 2014. Encouraging results (77% said that the
+advertising would make them more likely to go to the doctor and 16% said that they had
+already taken action as a result of seeing the advertising) from the local activity resulted in
+the scaling up of this pilot to the regional level in the East of England in February 2015.
+5.51 The second was a local rheumatoid arthritis pilot in Nottingham City and Hardwick CCGs
+in February 2015. The pilot focused on recognising and acting on the signs of rheumatoid
+arthritis, a disease that can cause serious disability if left untreated. Work is underway to
+
+34 An evaluation of the impact of large-scale interventions to raise public awareness of a lung cancer symptom;
+(January 2015) Ironmonger L, Ohuma E, Ormiston-Smith N, Gildea C, Thomson CS, Peake MD. British Journal of
+Cancer 112, 207–216. doi:10.1038/bjc.2014.596 http://www.nature.com/bjc/journal/v112/n1/abs/bjc2014596a.html
+35 Improving Outcomes: A Strategy for Cancer – Fourth annual report (December 2014); Department of Health;
+www.gov.uk/government/publications/the-national-cancer-strategy-4th-annual-report
+Living Well for Longer: One year on, 2015
+28
+ensure rigorous evaluation which will include pre and post campaign evaluation and a
+range of activity metrics.
+Cancer screening
+Improving Coverage
+5.52 There has been a national and international long term trend showing a gradual fall in
+cancer screening coverage over the last ten years, but there are options for reversing this
+trend where appropriate, particularly in disadvantaged groups. PHE is working with NHS
+England via the Public Health Section 7A agreement to develop a system of performance
+improvement through the use of performance floors, and strengthened governance for
+screening.
+5.53 NHS England is working closely with Cancer Research UK to take forward the ACE
+programme (Accelerate Coordinate and Evaluate) which is looking at options for improving
+early diagnosis of cancer. The programme, which will be subject to a full evaluation,
+includes a workstream on screening uptake for vulnerable groups – seven projects are
+looking at effective ways to remove barriers to screening for a range of vulnerable groups
+including those with sensory impairment, learning difficulties or minority ethnic groups.
+5.54 DH Behavioural Insight team is developing a project on improving coverage in cervical
+screening. In addition, a major research study on increasing uptake of cervical screening
+in young women and bowel screening in disadvantaged groups are due to report in
+2015/16.
+LWfL commitments on cancer screening
+5.55 There are three specific cancer screening commitments from PHE in LWfL. The first was
+to complete the second wave role out of bowel scope screening with at least 60% of local
+screening operational by 31st March 2015, with 100% operational by the end of December
+2016. At publication, this commitment has been exceeded, with 39 centres (63%) live by
+mid-March.
+5.56 The second commitment was to run a pilot of faecal immunochemical testing (FIT) for
+bowel cancer screening, a more accurate and simpler to use homes testing kit than the
+current Faecal Occult Blood (FOB) testing kit, with the intention of evaluating acceptability
+to the public along with clinical and cost-effectiveness. As FIT is easier to use, it is
+anticipated to increase the uptake of bowel screening.
+5.57 NHS cancer screening programmes began piloting FIT in spring 2014, and this pilot
+completed in October 2014. The pilot involved 40,000 men and women over six months
+from many screening centres in the South of England, North West and West Midlands.
+The formal clinical and cost-effectiveness evaluation report is expected at the end of
+March 2015. Expected outcomes are a higher participation rate across all groups in
+society and higher detection rate of cancers and advanced adenomas.
+29
+5.58 Finally, there was a commitment to report on the first year of the six pilots sites of human
+papillomavirus (HPV) testing as primary cervical screening. From May 2013 sites in
+Liverpool, Manchester, Northwick Park (Harrow), Bristol, Sheffield and Norwich have been
+using HPV testing as primary screening (HPV TaPS) for cervical disease, rather than the
+currently used cytology test. Only HPV samples that are positive will undergo cytology,
+whilst those women who are HPV negative can return to routine screening.
+5.59 A formal evaluation of the pilot is taking place, and an interim report is due to go to the UK
+NSC in March 2015. Cancer Research UK has estimated that, when fully implemented,
+HPV primary screening could prevent an additional 600 cases of cervical cancer a year.
+Access to scientific and diagnostic commissioning information
+5.60 NHS England is working to ensure that scientific and diagnostic services are available to
+support both prevention and early diagnosis across the life course and ongoing monitoring
+of disease status by improving the scientific and diagnostic commissioning information
+available to commissioners.
+5.61 NHS England is leading a range of activities relating to the future commissioning of
+diagnostics within both specialised and CCG commissioning, which over time will begin to
+inform new approaches to the prediction and prevention of disease as well as the
+application of new targeted therapies, in support of delivering the ambitions set out in the
+5YFV.
+Prime Minister Challenge Fund Pilots
+5.62 NHS England committed in LWfL to evaluate the Prime Minister Challenge Fund pilots to
+provide evidence on how to improve access to general practice services and develop more
+innovative and sustainable models of primary care and improve patient experience.
+5.63 They have 20 pilots in wave one involving over 1100 practices and covering over 7m
+population and these will continue through to September 2015. The intention of the
+evaluation is to develop a common set of evidence-based principles that can be used by
+others in developing their approaches to improving access to services. A further £100m
+has been announced for a second wave of pilots to run during 2015/2016. NHS England
+is currently working on the wave two selection and wave two pilots to be announced later
+in March.
+The Extended Primary Integrated Care (EPiC) project has extended access to primary care services in
+parts of Brighton and Hove by thinking about how General Practice delivers its functions.
+To help people who need health guidance rather than medical care some GP practices have introduced care
+navigators. These specially trained staff work with voluntary care organisations Age UK and Neighbourhood
+Care to provide proactive advocacy and support to the community, particularly for those who are living on
+their own or with complex needs.
+They have also increased access and reconnected GPs to local community assets by working with local
+pharmacists to set up ‘primary care’ centres to give patients a more responsive and flexible service, providing
+same-day appointments, from 8am to 8pm on weekdays. On weekends patients have access to two sites
+which are open from 8am to 5pm and a further two sites, open from 9am to 5pm.
+Living Well for Longer: One year on, 2015
+30
+Treatment
+5.64 There is a lot we can do to extend and improve the quality of lives through effective
+treatment and LWfL identified the need to ensure that the quality of treatment is more
+consistent across the country. LWfL set out a number of areas where NHS England have
+been working to ensure people receive high quality care and experience the best
+outcomes possible.
+Stimulating a focus on reducing premature mortality across the NHS
+5.65 Given the priority reducing early deaths has across the system it was important to
+establish a way to articulate the contribution the commissioning system makes to reducing
+premature mortality, ensuring commissioning plans focused on improving outcomes not
+just outputs. The measure of this ambition is in potential years of life lost (PYLL).
+5.66 NHS England committed to providing clinical advice and support for CCGs in setting and
+delivering their levels of ambition throughout the year with the aim of all CCGs having
+agreed levels of ambition to reduce premature mortality. This was achieved in September
+and cumulatively CCGs have set a level of ambition of 12% reduction in PYLL to 2018/19.
+Incentives
+5.67 In April 2014 NHS England strengthened the existing quality premium on PYLL to ensure a
+clear focus on delivering greater improvement in areas of high social deprivation.
+5.68 In addition, to support NHS England’s commitment to reduce the 15 to 20 year premature
+mortality in people with severe mental illness, a new CQUIN was introduced in April 2014.
+The CQUIN incentivises providers of mental health services to ensure that service users
+have recorded comprehensive physical and mental health diagnoses and that this is
+shared with the service users GP. There are now 75 organisations providing relevant
+mental health services which are signed up to the CQUIN. The CQUIN is expected to
+continue in 2015/16 to progress improvements for patients with severe mental health
+illness.
+5.69 NHS England is expected to introduce new CQUINs with a view to improving the detection
+and management of acute kidney injury (AKI) and sepsis in 2015/16. Both AKI and sepsis
+are identified as short to medium-term priorities for reducing premature mortality by NHS
+England. Consideration is also being given to the extension of the Quality Premium PYLL
+measure and the CQUIN mental health measure.
+5.70 Decisions by NHS England on the 2015/16 Quality Premium and CQUIN schemes are
+expected later in the spring. Over the coming year NHS England will also be reviewing the
+design of incentives in the light of the 5YFV.
+31
+Proton Beam Therapy
+5.71 Proton Beam Therapy (PBT) is a very precise form of radiotherapy which uses charged
+particles (protons) rather than conventional X-rays. It can be effective in treating a number
+of complex cancers and avoiding damage to critical tissues near the tumour.
+5.72 It is particularly effective in improving the outcomes from the treatment of cancer in
+children and young people as it decreases the long term side effects and risk of late
+second malignancy and consequently increases patient lifetime benefits.
+5.73 In April 2008, the first patients were sent abroad for PBT treatment on the Proton
+Overseas Programme. The National PBT Service Development Programme was formally
+established in 2012 where the government announced £250m of public capital funding to
+develop the new PBT centres. There is a Prime Ministerial commitment to open two new
+centres (the first by 2018) while continuing to fund all clinically appropriate patients for
+overseas PBT treatment.
+5.74 NHS England is committed to publishing PBT clinical access policies for routine
+commissioning. This contributes to delivering the ambitions on premature mortality by
+defining the national mandatory access to the PBT overseas programme before the NHS
+starts to provide a UK service in 2018.
+Stroke services
+5.75 NHS England set out clearly in the 5YFV the benefits, in terms of outcomes for patients, of
+configuring some services to centralise specialist provision. LWfL included a commitment
+on reconfiguring stroke services where NHS England has been working with networks to
+understand the appetite and barriers in different localities and CCGs for service
+reconfiguration. In line with the commitment in LWfL to build on the London experience,
+Manchester’s new stroke service is expected to go live at the end of March. Birmingham
+has already undergone some change with the next steps of reconfiguration currently in
+development.
+5.76 NHS England is supporting local communities to develop the case for reconfiguration of
+local stroke services. A reconfiguration resource kit for CCGs based on existing and
+successful acute stroke service reconfiguration examples has been produced by NHS
+England to facilitate this.
+Congenital heart disease review
+5.77 In LWfL NHS England committed to, and is currently undertaking, a review of services for
+children and adults with congenital heart disease. The aims of the review are to get the
+best outcomes for patients; to tackle variation so that services across the country
+consistently meet demanding performance standards and are able to offer resilient 24/7
+care; and to improve patient experience.
+Living Well for Longer: One year on, 2015
+32
+5.78 The consultation on draft standards and service specifications closed in December, with
+around 450 responses and an independent report on the responses was published in early
+March. The board of NHS England is expected to make its decisions on the review’s
+recommendations in summer 2015, with the expectation that services will be
+commissioned against the new specifications and standards in 2016. Work is underway
+with national and local commissioners, providers and patient groups to establish timely
+and appropriate commissioning processes as well as improvements in the available
+information about the performance of congenital heart services.
+Making every contact count
+5.79 Improving health outcomes needs action at individual, community and national levels;
+‘making every contact count’ (MECC) focuses on individuals and groups improving health
+and wellbeing and contributing to overall improvement.
+5.80 DH has been working to support a system wide approach to implementation and key
+organisations including NHS England, PHE and HEE are undertaking work to support the
+delivery of MECC across health and social care. MECC is also a core component of the
+Framework for Personalised Care and Public Health36, and is directly linked to 23 of the
+indicators in the Public Health Outcomes Framework. There is recognition of the
+importance of staff having the right skills to deliver these interventions and work is ongoing
+to ensure it is built into the Public Health Workforce Strategy.
+5.81 The Mandate37 sets out an objective for NHS England to make significant progress ‘in
+focusing the NHS on preventing illness, with staff using every contact they have with
+people as an opportunity to help people stay in good health’ and to ‘make an important
+contribution by promoting the mental and physical health and wellbeing of its own
+workforce’.
+5.82 NHS England will produce an action plan by the end of March to improve the NHS
+contribution to prevention through the implementation of NICE guidance on behaviour
+change relating to obesity, physical activity, alcohol and tobacco in support of MECC and
+to reduce health inequalities. The action plan will focus on clinical leadership and
+engagement through effective communications and partnership working; the development
+of commissioning resources, tools and levers and supporting system leaders, HEE and
+PHE, on defining the requirements for workforce training and education.
+5.83 NHS England will also strive to be an exemplar in the development of its own strategy on
+workforce health and wellbeing, and support NHS Employers in respect of the wider NHS
+workforce.
+
+36 Framework for Personalised Care and Public Health for Nurses, Midwives, Health Visitors and Allied Health
+Professionals; (Nov 2014); Public Health England & Department of Health;
+https://www.gov.uk/government/publications/framework-for-personalised-care-and-population-health
+37 https://www.gov.uk/government/publications/nhs-mandate-2014-to-2015
+33
+Learning disabilities
+5.84 Living Well for Longer recognised that it is often people who are most at risk of poor health
+outcomes who are slowest to come forward and that they are also likely to be relatively
+disadvantaged. To address this we need to understand how best to target interventions
+and contribute to reducing health inequalities.
+5.85 As part of this NHS England commissioned an evidence review of interventions to reduce
+mortality for people with a learning disability; the main conclusion of which was that there
+is a lack of clear evidence of what works. As an interim solution NHS England published a
+document that set out, amongst other things, ways for the system to make reasonable
+adjustments to ensure equity of access to services. NHS England made £1.5 million
+available in 2014/15 to support the work required to establish a national learning disability
+mortality review which will begin collecting data about the causes of premature mortality in
+people with a learning disability with a view to identifying learning about ways of improving
+outcomes for them in 2015/16.
+5.86 NHS England has asked the Healthcare Quality Improvement Partnership (HQIP) to
+commission the review as a National Clinical Audit Confidential Enquiry under the National
+Clinical Audit and Patient Outcomes Programme. HQIP is in the process of tendering for a
+preferred provider and we expect a national mortality review to be established during
+2015/16. NHS England is undertaking preliminary work to scope options for improving
+uptake of GP health checks for people with learning disabilities.
+Making every contact count is a way of working that can make a real difference to people’s lives. The focus
+might be on individuals losing weight, quitting smoking, reducing alcohol intake, or helping to reduce social
+isolation – it’s about living well for longer. For those at the West Midlands Fire Service, it can mean:
+ getting an elderly woman’s carpet replaced because there’s a real risk of her tripping;
+ looking out for new squats on the way to and from work to have conversations with the homeless about fire
+safety, and giving information on local services;
+ climbing through someone’s window to have a chat about alcohol harm reduction because that was the only
+way they would let you in; and
+ working with a 15 year old with 30 or so arrests with the outcome that they stay in education, are now living
+independently and don’t do the sorts of things anymore that got them arrested in the first place. 
+Living Well for Longer: One year on, 2015
+34
+6. Next steps
+6.1 One year after LWfL was published we find ourselves at a pivotal point of opportunity to
+make real change across the system. We have the right organisations in place, newly
+established mechanisms to support and collaborate with each other and clearly articulated
+commitments to delivering a paradigm shift in how health care in its broadest sense is
+delivered.
+6.2 We are confident that the evidence based actions set out in this report will have had a
+positive impact on reducing premature mortality. This is corroborated by the extensive
+information included in this report setting out additional activity across the system. It is not
+yet possible to identify the impact of these activities on overall mortality rates or
+inequalities for a number of reasons.
+6.3 Mortality statistics are volatile and notoriously difficult to interpret, not least because they
+reflect a vast array of different factors that will come into play over the whole life course of
+any individual. We will, however, continue to monitor mortality rates and health inequalities
+over the longer term to help identify changes in future trends and take action accordingly.
+6.4 There is a consensus on the areas we need to focus on to maximise the impact on the
+health and care system and importantly, from this document’s perspective, on reducing
+premature mortality and health inequalities. For example the work commissioned by NHS
+England and DH from the European Health Observatory38
+. We either know, or are building
+the evidence base, on what works and are agreed about the benefits of working as a
+broad coalition to implement the processes, services and systems.
+6.5 With all aspects of this work, account needs to be taken of the different needs of different
+communities and groups to ensure health inequalities are reduced, especially those
+associated with premature mortality. Research39 tells us that while the proportion of the
+population that engages in unhealthy behaviours has declined significantly in the past few
+years these reductions have not been spread evenly across the population.
+6.6 To improve the overall health of England and reduce the pressure on the NHS we need to
+ensure that the actions we take particularly enable those at higher risk of unhealthy
+behaviours, for example those in lower socio-economic groups, to live longer healthier
+lives.
+
+38 Reducing avoidable mortality in England: What can be done? Karanikolos M, Nolte E, Varsamis D, Ingham Clark
+C, Bhogal J, and McKee M; Eurohealth, 20, 4, pp39-42 (December 2014)
+http://www.euro.who.int/__data/assets/pdf_file/0011/266186/EuroHealth_v20n4.pdf?ua=1
+39 Clustering of unhealthy behaviours over time: implications for policy and practice; (Aug 2012); Buck D and
+Frosini F; The King’s Fund; http://www.kingsfund.org.uk/sites/files/kf/field/field_publication_file/clustering-ofunhealthy-behaviours-over-time-aug-2012.pdf
+35
+Shared system leadership
+6.7 The 5YFV and From evidence into practice both highlight the need for the NHS and public
+health to empower people to manage their own health more effectively in a range of ways
+which dovetail and complement each other.
+6.8 This will range from helping the public to engage with information about making healthy
+choices through digital and mobile technology as well as continuing with the tried and
+tested routes such as marketing campaigns. It includes improving the information that
+people can readily access about diseases and interventions, linking into the existing work
+on digital information. It also involves increasing the direct choice and control patients
+have over their care in terms of what treatment they have and where, and the new
+integrated personal commissioning to manage a ‘year of care’ budget for themselves.
+6.9 Without a shared vision and collaborative working between the NHS and local authorities,
+championing the individuals’ role in determining their health and wellbeing, this will not
+become a reality.
+6.10 The second area where shared leadership will be key is in the rise of place-based
+approaches where local authorities lead their partners in health, public health and
+elsewhere to develop local solutions that integrate services and ensure sustainability and
+resilience. PHE are committed to develop an evidence base on community development
+interventions.
+6.11 NHS England has also identified the need to engage with communities and the public at a
+more fundamental level, outside the routine provision of healthcare. The NHS has a
+unique position of trust within communities and will be looking to extend its influence in
+supporting carers, creating new options for health-related volunteering as well as making it
+easier for voluntary sector organisations to work with the NHS. The NHS will also be
+seeking to use its role as a major employer to lead the way in improving the health of its
+population for example through its management of employees with mental health
+conditions.
+Accountability and transparency
+6.12 The work on transparency will continue across the national organisations. There is a
+shared willingness to make data and information on quality and performance available in
+clear and meaningful ways that can be tailored to a variety of audiences.
+6.13 DH is undertaking a programme of work to consider the future direction of the outcomes
+frameworks (public health, NHS and adult social care), and how they can promote greater
+alignment. This work aims to support commissioners, patients and the public, not only to
+have access to this information on outcomes but to use and interpret it, so that they are
+fully informed about the quality of care available to them.
+Living Well for Longer: One year on, 2015
+36
+6.14 There is also an ongoing process to review and develop the MyNHS site with users,
+professionals and organisations. Secretary of State sees this as a key mechanism to
+embed the culture of transparency throughout the system. Future updates include a
+commitment to provide information at a local authority level on the health and wellbeing of
+their population which will provide context for the other health and care economy
+information on the site.
+Ensuring prevention is front and centre
+6.15 Over the next 5 years, first and foremost there must be a focus on prevention. This is
+clearly articulated by both NHS England and PHE in their forward plans but for the first
+time the governance and mechanisms are being put in place to deliver collaboratively. The
+NHS Prevention Programme Board will provide shared senior leadership and governance
+and ensure these programmes of work are developed collaboratively. Reducing health
+inequalities will be a particular focus.
+6.16 The initial area of work for the programme is implementation of a national diabetes
+prevention programme. PHE is working in partnership with NHS England and Diabetes UK
+to implement the programme, as outlined in Evidence to Action and The Forward View into
+Action40
+. This work will involve assessing the evidence of what works, co-designing the
+interventions and supporting the implementation of proven approaches to prevent
+diabetes.
+6.17 These interventions will be implemented in a small number of demonstrator sites in
+2015/16 and evaluated before a planned national roll out in 2016/17. This will allow us to
+achieve our aim ‘to be the first country to implement at scale a national evidence-based
+diabetes prevention programme’
+41
+.
+6.18 In addition, DH is looking to incentivise local authorities to make tangible progress against
+key public health outcome indicators through the Health Premium Incentive scheme. A
+pilot scheme in 2015/16 will share £5 million among those authorities that achieve real
+improvement in drug misuse service outcomes and another indicator that they can choose
+themselves to reflect their own local priorities. There will be a default indicator on the NHS
+Health Check for those that don’t actively make a choice.
+6.19 Perhaps most importantly is the recognition that the NHS itself needs to become a greater
+agent for change in health-related social behaviours through:
+ Incentivising and supporting healthier behaviours on things like drinking, smoking and
+diet, using the purchasing power of the NHS to reinforce these measures. This will be
+supported and underpinned by PHE’s use of behavioural science and digital and
+
+40 The Forward View into Action: Planning for 2015/16; (Dec 2014); NHS England;
+http://www.england.nhs.uk/ourwork/forward-view/
+41 https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/366852/PHE_Priorities.pdf
+37
+mobile technology; enabling the system to personalise support at scale through new
+approaches to motivate and support people to make healthy choices.
+ Supporting local democratic leadership on public health through health and wellbeing
+boards and supporting greater powers for local authorities in public health policy. This
+will complement local authority led place-based approaches to develop local solutions
+and resilient communities.
+ Targeting secondary prevention, particularly through proactive, evidence based primary
+care interventions which provide considerable scope to rapidly reduce health
+inequalities42
+. PHE will be developing a new preventative services programme with
+NHS England. This will start with diabetes, assessing the evidence; designing
+interventions that are proven will prevent disease and support implementation. This
+work which is being taken forward in partnership with Diabetes UK will be a key
+programme to deliver reductions both in premature mortality and disability and also to
+demonstrate effective collaboration.
+ Supporting people to get jobs and stay in employment, in particular looking at how
+access to NHS services for those at risk of leaving work due to ill-health.
+ Supporting employers to provide effective workplace health programmes for their staff,
+starting with NHS Employers, encouraging NHS staff to act as health ambassadors in
+their local communities.
+6.20 There is an expectation that PHE will continue its work in widening the reach of the
+Workplace Wellbeing Charter, an award scheme to promote workplace health, while
+ensuring this is aligned with the Public Health Responsibility Deal Health at Work Network
+pledges. PHE will also continue to build the evidence base and support DH in developing
+policy in this area.
+6.21 DH will continue to work to support efforts to reduce participation in risky behaviours,
+taking account of their social distribution. In particular we will need to continue to work with
+industry to improve public health. They have a significant role to play given their role as
+employers, but also as producers and retailers of food and alcohol.
+6.22 DH will also be working on the European Tobacco Products Directive, which must be
+transposed in UK law by May 2016, will introduce a range of new tobacco control
+measures, including a ban on flavourings such as menthol, larger health warnings, bring
+an end to small packs of cigarettes and tobacco and introduce measures to counter illicit
+trade in tobacco. The Directive will also introduce regulatory controls on electronic
+cigarettes.
+
+42 Tackling inequalities in life expectancy in areas with the worst health and deprivation; House of Commons
+Committee of Public Accounts: Third Report of Session 2010–11;
+http://www.publications.parliament.uk/pa/cm201011/cmselect/cmpubacc/470/470.pdf
+Living Well for Longer: One year on, 2015
+38
+Treatment: improving outcomes for patients
+Mental health
+6.23 Mental health was identified in LWfL as an area where health outcomes from the major
+killer diseases are particularly poor. To help address this the recently published Mental
+Health Act 1983; Code of Practice43 includes advice service providers can follow to better
+look after the physical health of people suffering mental ill health. This recognises the huge
+disparity in premature mortality rates for people suffering mental illness.
+Cancer
+6.24 International comparisons demonstrate that although incidence of cancer in the UK is
+below the European average, there is a historically poor survival gap between the UK and
+other parts of Europe. Most of this data is from patients diagnosed in 2007 or earlier and
+we have made progress in England in improving outcomes since 2007.
+6.25 A comparison of all-stage survival in 2012 with a baseline of 2004/07 shows increasing
+survival across all cancer types44 and in the 2014 Fourth Annual Report on the Cancer
+Outcomes Strategy45 we projected that, based on our current rate of improvement in
+survival, 12,000 additional people diagnosed from 2011-2015 will survive their cancer for
+five years compared to those diagnosed from 2006-2010. We would not claim that all the
+improvement is down to actions set out in the strategy, but we do believe that these
+actions have had a significant impact on cancer survival in this country and will continue to
+do so.
+6.26 Although this is good news, we know there is still more to do. There are still deep
+inequalities and wide variation in outcomes from cancer across England, which
+demonstrates that there is significant scope for improvement. This is why in January 2015
+NHS England announced a new independent Cancer Taskforce to develop a new cancer
+strategy which will focus on better prevention, quicker diagnosis, and better treatment,
+care and aftercare for all those diagnosed with cancer.
+6.27 The strategy will be published by the summer. If we are able to deliver the vision set out in
+the 5YFV at sufficient pace and scale, NHS England believe that, over the next five years,
+the NHS can deliver a 10% increase in those patients diagnosed at stage 1 and stage 2.
+This is equivalent to about 8,000 more patients living longer than five years after
+diagnosis.
+
+43 Mental Health Act 1983: Code of Practice; (January 2015); Department of Health;
+https://www.gov.uk/government/publications/code-of-practice-mental-health-act-1983
+44 1-year cancer survival increased from 59.7% for adults diagnosed in 1997 to 69.3% in 2012 and 5-year survival
+increased from 41.9% for adults diagnosed in 1997 to 49.0% in 2008.
+45 Improving Outcomes: A Strategy for Cancer – Fourth annual report (December 2014);
+www.gov.uk/government/publications/the-national-cancer-strategy-4th-annual-report
+39
+6.28 NHS England also launched a major early-diagnosis programme, working jointly with
+Cancer Research UK and Macmillan Cancer Support to test new approaches to identifying
+cancer more quickly. Examples include self-referral for diagnostic tests, lowering the
+threshold for GP referrals, and setting up multi-disciplinary diagnostic centres so patients
+can have several tests done at the same place on the same day.
+6.29 In addition, NHS England committed a further £15 million over three years to evaluate and
+treat patients with a modern, more precise type of radiotherapy, stereotactic ablative
+radiotherapy (SABR). This evaluation programme will mean a significant increase in the
+number of cancer patients eligible to access SABR treatment by around 750 a year. The
+programme will widen the number of cancers being treated by SABR, including cancer that
+has spread to another part of the body. This new investment is in addition to NHS
+England’s pledge to fund up to £6 million over the next five years to cover the NHS
+treatment costs of SABR clinical trials, most of which are being led by Cancer Research
+UK.
+Liver disease
+6.30 Liver disease is one area where we have not seen the improvements in mortality rates that
+have been evident in the other major diseases. While the rates have broadly levelled off in
+recent years liver disease is the third commonest cause of premature death in people of
+working age, and continues to make a major contribution to premature mortality and health
+inequalities. Mortality rates from liver disease are substantially higher in the UK than other
+countries in Western Europe.
+6.31 Alcohol, obesity and viral hepatitis are the main contributors to liver disease and, are
+largely preventable risk factors. Work is underway to prevent liver disease through tackling
+alcohol consumption and obesity which have been discussed earlier in this document.
+Viral hepatitis, in particular hepatitis C, contributes to morbidity and premature mortality
+from liver disease and liver cancer. On World Hepatitis Day (28 July 2014), PHE published
+its annual report Hepatitis C in the UK46 summarising progress since the 2004 hepatitis C
+action plan for England, but showing the continuing rise in serious liver disease due to
+chronic hepatitis C infection.
+6.32 PHE has also been working with NHS England and the voluntary sector to develop a
+Hepatitis C Improvement Framework which aims to improve case-finding, prevention,
+diagnosis and treatment programmes, especially for high-risk populations such as people
+who inject drugs. The long term goal is reducing the burden of disease from end-stage
+liver disease and liver cancer. This framework is due to be published in the spring. To
+support commissioning of hepatitis C services, PHE also publishes a hepatitis C
+commissioning template which helps commissioners estimate the local prevalence of
+
+46 https://www.gov.uk/government/publications/hepatitis-c-in-the-uk
+Living Well for Longer: One year on, 2015
+40
+hepatitis C and the costs of treatment. Mathematical modelling47 suggests that access to
+the new, more effective treatments for chronic infection have real potential to stem this
+rise.
+6.33 Hepatitis B infection, the other viral cause of chronic liver disease, can be effectively
+prevented by vaccination. In October, the Joint Committee on Vaccination and
+Immunisation48 recommended that a combination vaccination including hepatitis B should
+be used in infants, provided that it could be procured at a cost effective price.
+6.34 PHE is taking a number of additional actions to help tackle the condition. These include
+developing a liver disease framework and publishing a report on children and young
+person’s liver disease in addition to an updated report from the National End of Life Care
+Intelligence Network on end of life care for people dying with liver disease, both of which
+are expected later this spring. PHE has a strategic partnership working with the Lancet
+Commission49 on liver disease on taking forward its recommendations.
+6.35 PHE has also developed the information available to support commissioning decisions,
+with publication of local authority liver disease profiles in November 2014. These were
+designed for use by local authority Health and Wellbeing Boards and the evidence is that
+they are being used widely. PHE will work with Institute for Health Metrics and Evaluation
+to publish a report of the Global Burden of Disease 2013 model (for liver disease) with an
+update for England compared with other countries, which will include analysis by English
+region and by deprivation. During 2015/16, PHE will also produce an analysis of the
+independent role of obesity in liver disease compared with alcohol and infections.
+Acute kidney injury
+6.36 Acute kidney injury (AKI) is seen in 13–18% of all people admitted to hospital, costing the
+NHS between £434m and £620m per year and resulting in substantial numbers of
+preventable deaths. To address this, NICE guidance50 was published in 2013 to foster
+improvements in early intervention and highlight the importance of risk assessment and
+prevention, early recognition and treatment in a variety of settings.
+6.37 In 2015, ‘Think Kidneys’, the NHS programme for AKI, will commence measurement and
+reporting across all providers and support improvement across England by providing
+expertise to the Safety Collaborative and other initiatives to reduce harm associated with
+AKI.
+
+47 https://www.gov.uk/government/publications/hepatitis-c-in-the-uk
+48 https://www.gov.uk/government/groups/joint-committee-on-vaccination-and-immunisation#minutes
+49 Addressing liver disease in the UK: a blueprint for attaining excellence in health care and reducing premature
+mortality from lifestyle issues of excess consumption of alcohol, obesity, and viral hepatitis; Williams et al;
+(November 2014); http://www.britishlivertrust.org.uk/lancet-leading-experts-call-end-uk-postcode-lottery-liverdisease-treatment-detection/
+50
+ Acute kidney injury: Prevention, detection and management of acute kidney injury up to the point of renal
+replacement therapy; (August 2013); NICE; https://www.nice.org.uk/guidance/cg169
+41
+Sepsis
+6.38 Sepsis claims over 37,000 lives every year in the UK which is more than lung cancer and
+breast cancer combined51. It also costs the NHS around £20,000 for each hospital
+admission52
+.
+6.39 Research shows that early recognition and intervention saves lives, estimates suggest as
+many as 15,000 per year in the UK, reduces the time patients spend in hospital and is cost
+effective. The Secretary of State’s recent focus and the publication of information on
+patient safety53 is an important step in challenging the system to do more on sepsis and
+other risks to good treatment and care.
+6.40 NHS England has set up a cross-system Sepsis Programme Board to bring together work
+being undertaken by various bodies on early recognition and treatment of sepsis. Among
+other things HEE is developing educational materials, NHS England has developed a
+CQUIN to reward rapid recognition and treatment of severe sepsis in patients admitted to
+hospital as emergencies, and work is going on in liaison with the Academy of Medical
+Royal Colleges to enable audit and improvement in sepsis management in primary and
+secondary care.
+Diabetes
+6.41 Diabetes is a major risk factor for premature mortality, contributing to over 22,000
+additional deaths each year as well as health inequalities. Having diabetes doubles the
+risk of cardiovascular disease (heart attacks, heart failure, angina and strokes) and it is
+often accompanied by other long-term conditions.
+6.42 Estimates suggest that diabetes costs approximately 10% of the total expenditure on
+health with approximately 80% of those costs incurred in treating potentially avoidable
+complications. There have been improvements in the quality of NHS care for people with
+or at risk of diabetes which has led to improvements in health and care outcomes as well
+as mortality among people with diabetes54
+.
+6.43 However, there is more to be done to improve outcomes and patient experience and in
+2014 NHS England published their Action for Diabetes55. This set out the actions they are
+taking over the next few years to improve outcomes for adults with and at risk of diabetes.
+
+51 UK Sepsis Trust, accessed 12 February 2015,
+https://www.facebook.com/TheUkSepsisTrust/info?ref=page_internal
+52 Time to act - Severe sepsis: rapid diagnosis and treatment saves lives; Appendix 2: invited evidence from the UK
+Sepsis Trust; (September 2013); Parliamentary and Health Service Ombudsman;
+http://www.ombudsman.org.uk/time-to-act/glossary-and-appendices/appendix-2-invited-evidence-from-the-uksepsis-trust
+53 http://www.nhs.uk/NHSEngland/thenhs/patient-safety/Pages/patient-safety-indicators.aspx
+54 Action for Diabetes; NHS England; (January 2014); http://www.england.nhs.uk/ourwork/qual-clin-lead/action-fordiabetes/
+55 ibid
+Living Well for Longer: One year on, 2015
+42
+These include the development of a sample service specification for services to support
+CCGs to put in place appropriate services for their populations; this is now available on the
+NHS Commissioning Assembly website56
+.
+6.44 In addition, NHS England is working with Diabetes UK and the Association of British
+Clinical Diabetologists on a national root cause analysis project. Acute trusts have
+volunteered to participate in the project which is currently collecting data on adverse
+inpatient events in those with diabetes, including mortality. The results will help inform
+future inpatient care and will be presented at the Diabetes UK Annual Professional
+Conference in March 2015.
+Self care
+6.45 The 5YFV highlights the fact that over a quarter of the population in England have at least
+one long term condition and increasing numbers having multiple conditions. It estimates
+that approximately 70% of health and social care spending is targeted towards those 15
+million people. As a consequence, managing those needs in an effective, joined up
+manner is now central to the role of the NHS.
+6.46 The 5YFV recognises that even patients with long term conditions probably spend less
+than one percent of their time in contact with health professionals. The rest of the time they
+manage on their own. There is good evidence that patients who receive services that are
+tailored to their needs and circumstances, and who have the skills and support needed to
+manage their own care, experience health, better outcomes and fewer costly episodes of
+unplanned care. The 5YFV therefore makes a key commitment to do more to support
+people with long term conditions to manage their own health and care.
+6.47 NHS England has recently launched the Realising the Value Programme which will identify
+key evidence based approaches to care which empowers patients and engages
+communities (such as self-management and peer support) and develop tools to support
+their implementation across the NHS and local communities. This work will include testing
+with local communities, and will give consideration to culture and systems barriers, to
+enable greater implementation of self-management and person centred care in addition to
+developing a methodology for assessing the costs and benefits.
+6.48 Other areas of activity to promote self-care include the Patient Activation Measure (PAM)
+learning set. As part of this, five CCGs and the UK Renal Registry are currently testing the
+use of the PAM, to help assess an of individual’s motivation, alongside their skills,
+knowledge and confidence to manage and make decisions about their own health and
+care. This work will be evaluated and will offer learning on how the PAM can support a
+personalised approach to care and self-management.
+
+56http://www.commissioningassembly.nhs.uk/pg/dashboard 
+43
+6.49 In addition to this, NHS England is conducting a survey to test clinician support (CS) for
+patient activation. The CS PAM questionnaire has been supported by a number of Royal
+Colleges, and over 1800 clinicians have responded. Analysis of the data is currently
+ongoing. The results will help to understand how clinicians perceive their role in supporting
+patient self-management, the issues and barriers they face, and any additional support
+they may need.
+6.50 Finally, the Coalition for Collaborative Care was established in 2014 and brings together
+an alliance of people and organisations committed to achieving person-centred,
+collaborative care. NHS England and the Coalition recently published the Personalised
+Care and Support Planning Handbook57 on care and support planning for people with long
+term conditions. The Handbook is designed to help commissioners and practitioners turn
+the aspiration of improved personalised care and support for people with long term
+conditions into a reality; moving from providing single, unconnected episodes of care to
+working in partnership with patients over the long term.
+New models of care
+6.51 The 5YFV acknowledges that future developments will not be about disease or group
+specific services but about different models and networks of care. The way services are
+provided in primary care, community services and hospitals is often an important factor in
+delivering coordinated and person centred care.
+6.52 Over the next few years, as set out in the Forward View into Action58
+, NHS England will be
+working with innovative providers and commissioners to support development, evaluation
+and ensure the new care models provide the best experience for patients and value for
+money. To do this, twenty nine ‘vanguard’ sites were selected on 10 March to take the
+lead on the development of new care models. The aim is to transform how care is
+
+57 Personalised Care and Support Planning Handbook; NHS England;
+http://www.england.nhs.uk/resources/resources-for-ccgs/out-frwrk/dom-2/ltc-care/
+58 The Forward View into Action: Planning for 2015/16; (Dec 2014); NHS England;
+http://www.england.nhs.uk/ourwork/forward-view/
+Enabling people with a long term condition to manage their own health on a day to day basis improves the
+experience of care as well as improving outcomes. There is a wide range of tools to aid self care, including:
+ Diabetes UK’s ‘Living with Diabetes’ days (http://www.diabetes.org.uk/How_we_help/Living-withDiabetes-Days/).
+These are run across the country and provide advice on maintaining a healthy diet and
+becoming more confident in managing their diabetes day to day. For more one to one support there is
+peer support which puts people in touch with someone who knows first-hand what it’s like to live with
+diabetes (http://www.diabetes.org.uk/How_we_help/Peer-Support/).
+ My Stroke Guide (http://mystrokeguide.com/) is a self-management tool to support people who have
+been affected by stroke. It was designed by The Stroke Association with stroke survivors and carers, and
+provides practical tools to help them understand stroke and deal with its effects alongside peer support to
+combat feelings of isolation.
+ The British Lung Foundation’s COPD Patient Passport (http://passport.blf.org.uk/) uses a step by step
+approach to help patients discuss, understand and manage their condition better.
+Living Well for Longer: One year on, 2015
+44
+delivered locally and act as the blue prints for the NHS moving forward. NHS England will
+work with local vanguard sites to develop dedicated support packages, and help in
+overcoming barriers and building capability to enable and accelerate change in ways that
+can be replicated elsewhere. The programme will be backed by a £200 million
+Transformation Fund.
+6.53 The three areas for redesign include:
+ Integrated Primary and Acute Care Systems – joining up GP, hospital, community and
+mental health services;
+ Multispecialty Community Providers – moving specialist care out of hospitals into the
+community;
+ Enhanced health in care homes – offering older people better, joined up health, care
+and rehabilitation services.
+Looking to the future
+6.54 The vision started and articulated by the Secretary of State in 2013 is now embedded in
+the plans and priorities of NHS England and PHE. There is a common understanding of
+the direction of travel, and a shared commitment to deliver.
+6.55 The health and care reforms have put the right organisations in the right places. As
+envisaged, they have provided a more devolved system that is able, supported by NHS
+England and PHE, to deliver responsive and tailored services to meet local needs,
+including on reducing early deaths.
+6.56 LWfL played an important role in initiating the new system’s drive towards improving
+outcomes for the people of England. It set out for all the scale of the challenge and
+highlighted the themes of early diagnosis, treatment, and shone the spotlight on
+prevention. It is now time to step back and let the system as a whole, as well as each
+component part, do its work; while Government continues to undertake the actions only it
+can carry out, including providing the framework within which the health and care system
+works which recognises the importance of reducing premature mortality.
+6.57 It is also essential that NHS England, local NHS bodies, PHE and local authorities
+continue to build on progress, ensuring that the priorities of prevention, early diagnosis and
+effective, evidence based treatments are normalised in all future policy developments.
+3.14 Shared leadership and recognising where there are common system goals is fundamental
+to successful progress. NHS England and PHE have established clear structures and
+governance around common areas of interest with plans on how they will work together on
+cross-cutting themes.
+3.15 Greater availability of accessible local information will stimulate self-improvement rather
+than relying on common centrally driven performance targets. Increasing transparency will
+mean localities have meaningful data and information to judge performance as well as 
+45
+hold organisations and professionals to account for the quality of their services and local
+outcomes.
+6.58 For the future, DH will continue to consider the evidence on delivering high quality, cost
+effective health and care. We will work with our partners to evaluate what actions are
+required by the system to generate those improvements and hold partners to account to
+deliver those changes. We will remain an active partner in the coalition of effort across the
+system and will still play a key role in supporting the system at all levels to do what is
+necessary to reduce premature mortality and move us towards being amongst the best in
+Europe by 2020.

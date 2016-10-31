@@ -1,0 +1,1 @@
+db.test.find({"place":{$ne:null}})

@@ -1,0 +1,73 @@
+Logo: Tobacco In Australia: Facts and Issues
+
+Button: GO (Submit form)
+            Next Chapter
+Home » Chapter 3: Health Effects » 3.0 Introduction
+
+3.0 Introduction
+ Show / hide chapter menu
+Last updated: March 2015 
+Suggested citation: Winstanley, MH & Greenhalgh, EM. 3.0 Introduction. In Scollo, MM and Winstanley, MH [editors]. Tobacco in Australia: Facts and issues. Melbourne: Cancer Council Victoria; 2015. Available from http://www.tobaccoinaustralia.org.au/chapter-3-health-effects/3-0-background 
+Smoking of tobacco as we know it today, in the form of manufactured or 'factory-made' cigarettes, became common in Australia in the late 1800s. Pipe and cigar smoking was already widespread among men, but the convenience and ready availability of the cigarette soon made it a popular alternative.1 Manufactured cigarettes were supplied to Australians and their allies in the trenches of World War I,1 and by the end of World War II, nearly three quarters of Australian men and one quarter of women were smokers, the majority using cigarettes (see also Chapter 1, Section 1.1).
+Similar changes in smoking behaviour had occurred in Western Europe and North America, and with them, a marked escalation in lung cancer death rates and the growing suspicion that cigarette use was implicated in this trend. By 1950 several studies had been published in the medical literature2 and the finding that cigarette smoking and lung cancer appeared to be causally linked was reported.3,4
+Several series of authoritative, landmark reports have since been published by national and international agencies,i documenting the damaging effects of smoking and calling for action to help halt the smoking epidemic. Of these, the most regular series has been that issued by the Office of the US Surgeon General. Since 1964, comprehensive and rigorous reports on various aspects of tobacco and health have been issued by the US Surgeon General, repeating the conclusion that smoking is "the single greatest cause of avoidable morbidity and mortality in the United States," and never finding reason to reverse any earlier conclusions of causality.5
+The 2004 report of the US Surgeon General, The Health Consequences of Smoking, published the following four major conclusions:6
+Smoking harms nearly every organ of the body, causing many diseases and reducing the health of smokers in general.
+Quitting smoking has immediate as well as long-term benefits, reducing risks for diseases caused by smoking and improving health in general.
+Smoking cigarettes with lower machine-measured yields of tar and nicotine provides no clear benefit to health.
+The list of diseases caused by smoking has been expanded to include abdominal aortic aneurysm, acute myeloid leukaemia, cataract, cervical cancer, kidney cancer, pancreatic cancer, pneumonia, periodontitis and stomach cancer.
+In addition, the 2014 report of the US Surgeon General, The Health Consequences of Smoking – 50 Years of Progress, published these major conclusions in regard to the health effects of smoking:7
+The century-long epidemic of cigarette smoking has caused an enormous avoidable public health tragedy. Since the first Surgeon General’s report in 1964 more than 20 million premature deaths [in the U.S] can be attributed to cigarette smoking.
+The tobacco epidemic was initiated and has been sustained by the aggressive strategies of the tobacco industry, which has deliberately misled the public on the risks of smoking cigarettes.
+Even 50 years after the first Surgeon General’s report, research continues to newly identify diseases caused by smoking, including such common diseases as diabetes mellitus, rheumatoid arthritis, and colorectal cancer.
+In addition to causing multiple diseases, cigarette smoking has many other adverse effects on the body, such as causing inflammation and impairing immune function.
+The burden of death and disease from tobacco use in the United States is overwhelmingly caused by cigarettes and other combusted tobacco products; rapid elimination of their use will dramatically reduce this burden.
+3.0.1 Defining causality
+The US Surgeon General's reports have provided a detailed review of definitions of causality of disease, and how measures of causality may be applied. Causality is determined by evaluating the range of available evidence and considering it against well-established criteria. The more that an observed association fulfils the criteria, the more likely it is that a causal relationship can be inferred. These criteria are outlined in the US Surgeon General's Report for 2004:8
+Consistency: This refers to the persistence of the finding of an association between exposure and outcome in a number of methodologically valid studies undertaken in a range of settings. This helps ensure that possible confounding effects are eliminated, and also increases the statistical validity of the finding through the accumulation of additional evidence.
+Strength of association: Strength refers both to magnitude of the association, and to its statistical strength. The greater the measured association and the more sound its statistical basis, the less likely it is that the findings are influenced by chance, bias, or unmeasured or poorly controlled confounding factors. However the observed association must also have a plausible basis in understood biological processes.
+Specificity: Specificity refers to the degree to which exposure to the suspected disease causing agent can predict outcome. Other biological and epidemiological factors may need to be taken into account. For example, not all smokers develop lung cancer, and not all cases of lung cancer are caused by smoking. However, the extremely high relative risk for lung cancer in smokers, and the high percentage of lung cancers attributable to smoking, gives the association between smoking and lung cancer "a high degree of specificity".
+Temporality: Exposure to the causative factor must precede the onset of the disease. Considered alone, temporality is a poor predictor of causality, but no association can be considered to fulfil the criteria for causality if temporality is not satisfied.
+Coherence, Plausibility and Analogy: Taken together, these three criteria require that the proposed causal relationship must not defy known scientific principles, and that it must be biologically plausible and consistent with experimentally demonstrated biological mechanisms and other relevant patterns.
+Biologic Gradient (Dose-Response): This criterion refers to the observation of increased effect (for example incidence of disease) in response to increased dose (heavier and/or longer duration of smoking). Meeting this criterion forms a strong support for causality, except in the unlikely event that there is an unidentified confounder, which happens to be varying in the same manner as the observed dose and which could account for the measured association. Virtually all health outcomes causally linked to smoking have demonstrated a dose-response relationship of some description.
+Experiment: This criterion refers to naturally occurring "experiments" that might be considered to imitate the conditions of a properly conducted experiment in a scientific environment, and whose outcomes might have the force of a true experiment. An example of a 'natural experiment' in the smoking arena is assessing the health consequences of quitting smoking. To attribute observed improvements in health outcomes to factors other than smoking cessation would necessitate identifying alternative influences and demonstrating that those who continued smoking had also attained a health benefit where that alternative influence was present.
+The more closely an association fulfils the above criteria, the stronger its claim to causality. Not all inferences of causality will necessarily satisfy all criteria. For example where biological mechanisms may not be completely understood, causality may still be justified by satisfaction of other criteria, such as consistency and strength of association. Those applying the criteria must weigh the all of the scientific evidence and make a multidisciplinary judgement.8
+3.0.2 Tobacco—a leading preventable cause of death and disease
+Smoking is one of the leading preventable causes of death and disease in Australia, responsible for about 15 000 deaths annually.ii 9,10 In 2003, tobacco caused more than 1 in every 10 deaths in Australia, and taking into consideration sickness and disability as well as deaths, tobacco caused more disease and injury in Australia than any other single risk factor (Table 3.1).9 Tobacco is also responsible for most (90%) of all drug-caused deaths.iii In 2004-05, smoking caused 14 times as many deaths as alcohol, and 17 times the number of deaths due to illicit drug use.10 (see Table 3.0.1).
+Table 3.0.1	
+Deaths attributable to leading selected risk factors in Australia, 2003
+Risk factor
+Number of deaths
+Percentage of total deaths from all causes
+Percentage of total burden of disease and injury
+High blood pressure
+22 504
+17.0
+7.6
+Tobacco
+15 511
+11.7
+7.8
+High blood cholesterol
+15 351
+11.6
+6.2
+Physical inactivity
+13 491
+10.2
+6.6
+High body mass
+9525
+7.2
+7.5
+Alcohol*
+1084
+0.8
+2.3
+*Net effects, i.e. offsetting beneficial effects against harmful effects.
+Source: compiled from Begg et al.9
+It has been conservatively estimated that smoking kills about one half of all persistent users.2 A more recent study puts this figure at closer to two in three.11 Over the decades, the death toll from tobacco use has been vast. In the 50 years from 1960  to 2010, smoking is estimated to have killed 821,000 Australians.12 Tobacco use is also responsible for a global pandemic of death and disease, causing nearly six million deaths a year. More than five million of those deaths are caused by direct tobacco use, while more than 600 000 are caused by exposure to second-hand smoke13 (see Section 3.36).
+
+i For example the reports of the US Surgeon General, most of which are available at http://profiles.nlm.nih.gov/NN/Views/AlphaChron/date/10006/ , the Royal College of Physicians of London, some of which may be viewed at http://www.rcplondon.ac.uk/news/smoking.asp, and the Monographs of the International Agency for Research into Cancer at http://monographs.iarc.fr/ENG/Monographs/index.php .
+ii The most widely used estimate of deaths in Australia is currently that produced for by Begg et al in The burden of disease and injury in Australia, 20036. The estimate used for detailed calculations in the report by Collins and Lapsley 2004/057 is based on figures for a later year but comes up with a similar result (14 901).
+iii Figures based on estimated number of deaths taking into account deaths prevented (Collins & Lapsley 2004/05 p.52 & p. 56). 

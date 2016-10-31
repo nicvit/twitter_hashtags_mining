@@ -1,0 +1,1 @@
+db.getCollection('get_hashtags').find({"entities.hashtags" : {$exists:true}, $where:'this.entities.hashtags.length>0'}, {"entities.hashtags.text": 1})
